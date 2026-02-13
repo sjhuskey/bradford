@@ -708,8 +708,7 @@
                <note>Father of Ariston<hi rend="superscript">b</hi>
                </note>
                <note>Eurypontid king</note>
-               <note>Agasikles, as a contemporary of Leon, is supposed to have led the abor-</note> <!-- Ask Huskey if this should be corrected or remain for formating -->
-               <note>tive war against Tegea,<hi rend="superscript">c</hi> but Pausanias states that
+               <note>Agasikles, as a contemporary of Leon, is supposed to have led the abortive war against Tegea,<hi rend="superscript">c</hi> but Pausanias states that
                   he undertook no war. </note>
             </person>
             <person xml:id="grp-84">
@@ -1075,8 +1074,7 @@
                <note style="text-align: justify;">Son of Archidamos III</note>
                <note style="text-align: justify;">Brother of Agis III and Eudamidas I</note>
                <note style="text-align: justify;">He was sent to Crete by Agis III in 333 with a
-                  troop of mercenary </note>
-               <note style="text-align: justify;"> soldiers. </note> <!--Ask Huskey about this formatting-->
+                  troop of mercenary soldiers. </note> <!--Correction: Rejoined sentence from seperated line-->
             </person>
             <person xml:id="grp-108">
                <name>Ἀγησίλαος</name>

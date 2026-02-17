@@ -37,7 +37,7 @@
             <person xml:id="grp-2">
                <name>—oς A— (1)</name>
                <floruit>I AD?</floruit>
-               <note>9</note>
+               <note>SEG XI 557</note> <!--Correction: Typo, just said 9? changed it to former text [as written in the document]-->
                <note>N[omophylax?]</note>
             </person>
             <person xml:id="grp-3">
@@ -51,7 +51,7 @@
                <name>A— (3)</name>
                <floruit>LATE I AD</floruit>
                <note>
-                  <seg xml:space="preserve">  </seg>9</note>
+                  <seg xml:space="preserve">  </seg>SEG XI 565</note> <!--Correction: Same typo. Ask Huskey about these. Why are they just the number 9?-->
                <note>[Gerousias for the third (?) time]</note>
             </person>
             <person xml:id="grp-5">
@@ -97,8 +97,7 @@
                <note>(cf. Eurykles, 115/6-7) </note>
             </person>
             <person xml:id="grp-12">
-               <name>Γ(άιος) Ἀβίδιος ἈγαθάνγελοςΓ(άιος) Ἀβίδιος ΒιάδαςἈβίδιος Σά{τ}υ{ρ}ος
-                  (1)Ἀβί(διος) Φλέγων</name>
+               <name>Γ(άιος) Ἀβίδιος ἈγαθάνγελοςΓ(άιος) Ἀβίδιος ΒιάδαςἈβίδιος Σά{τ}υ{ρ}ος (1) Ἀβί(διος) Φλέγων</name> <!--Correction: Fixed formating.-->
                <floruit/>
             </person>
             <person xml:id="grp-13">
@@ -161,7 +160,7 @@
             </person>
             <person xml:id="grp-18">
                <name>Αγ— (1)</name>
-               <floruit/>
+               <floruit/> <!--What is this doing?-->
                <note>IG V 1. 179</note>
                <note>Stonecutter (ἔγραψε) or grammateus?</note>
             </person>
@@ -208,8 +207,7 @@
                <floruit>END VIII BC</floruit>
                <note style="text-align: justify;"> Poralla 1; Diodorus VIII fragment 21</note>
                <note style="text-align: justify;">Lover of Phalanthos, the mythical founder of
-                  Tarentum, whose life he </note>
-               <note style="text-align: justify;"> is supposed to have saved</note>
+                  Tarentum, whose life he is supposed to have saved</note> <!--Correction: Typo, sentence rejoined from line seperation.-->
             </person>
             <person xml:id="grp-25">
                <name>Ἀγαθίας (1)</name>
@@ -269,9 +267,8 @@
             <person xml:id="grp-31">
                <name>Μάρ(κος) Αύρ(ήλιος) Ἀγαθοκλῆς (2)</name>
                <floruit>II\III AD</floruit>
-               <note>Rizakis #82 (probably post <hi rend="italic">constitutio Antoniniana</hi>); IG
-                  V 1. 556</note>
-               <note>Son of (Agathokles &lt;23&gt; = &lt;1&gt;?)</note>
+               <note>Rizakis #82 (probably post <hi rend="italic">constitutio Antoniniana</hi>); IG V 1. 556</note> <!--Correction: Just fixed formatting-->
+               <note>Son of (Agathokles &lt;23&gt; = &lt;1&gt;?)</note> <!--Ask Huskey about the "<23> = <1>?"-->
                <note>Bideos</note>
             </person>
             <person xml:id="grp-32">
@@ -280,7 +277,7 @@
                <note>IG V 1. 148<hi rend="superscript">a</hi>; SEG XI 515<hi rend="superscript"
                      >b</hi>, 534<hi rend="superscript">c</hi>, 537<hi rend="superscript">d</hi>
                </note>
-               <note>Son of (Agathokles &lt;24&gt;)<hi rend="superscript">abcd</hi>
+               <note>Son of (Agathokles &lt;24&gt;)<hi rend="superscript">abcd</hi> <!--Again ask Huskey-->
                </note>
                <note>Nomo(deiktes) in the years of Nikokrates (12)<hi rend="superscript">b</hi>, AD
                   80/1-82/3, Kleodamos <!-- Correction: removed hyphen and fixed broken line -->
@@ -305,16 +302,14 @@
                <note>Kas(en) to Soixiteles (2)<hi rend="superscript">a</hi>
                </note>
                <note>Name in a catalogue<hi rend="superscript">a</hi>, ca. 100</note>
-               <note>[Bid]yos in the year of C. Julius Lam[pi]s (3)<hi rend="superscript">b</hi>,
-                  ca. 115-120</note>
+               <note>[Bid]yos in the year of C. Julius Lam[pi]s (3)<hi rend="superscript">b</hi>, ca. 115-120</note> <!--Correction: Fixed formating.-->
             </person>
             <person xml:id="grp-35">
                <name>Ἀγαθοκλῆς (6) AΡIOΣKΛEOΥS</name>
                <floruit>II AD</floruit>
                <note>IG V 1. 40</note>
                <note>Son of Ari{st}o[[s]]kles (18)</note>
-               <note>Ger(ousias) in the year of Pratonikos (20), ca. 107/8 and Priest of the </note>
-               <note>Uranians</note>
+               <note>Ger(ousias) in the year of Pratonikos (20), ca. 107/8 and Priest of the Uranians</note> <!--Correction: Typo, word split from sentence.-->
                <note>Eph(or) in the year of Damonikidas (6), ca. 109/10</note>
                <note>G(rammateus) bo(ulas) in the year of Polyeuktos (5), ca. 110/1</note>
                <note>Agoranomos in the year of Ul(pius) Sosikrates (10), ca. 111/2 or 112/3</note>
@@ -336,16 +331,13 @@
                <note>Son of Eudaimonidas (2)<hi rend="superscript">ab</hi>
                </note>
                <note>Bidyos<hi rend="superscript">a</hi>; synarch of the agoran[omia in the year of
-                  Alk]astos (3)<hi rend="superscript">a</hi>, </note>
-               <note>ca. 136/7</note>
+                  Alk]astos (3)<hi rend="superscript">a</hi>, ca. 136/7</note> <!--Correction: Typo, fixed line seperation.-->
             </person>
             <person xml:id="grp-38">
                <name>Γάιος Ἰούλιος Ἀγαθοκλῆς (8)</name>
                <floruit>MID-LATE II AD</floruit>
                <note>Rizakis #414; IG V 1. 46<hi rend="superscript">a</hi>, 534<hi
-                     rend="superscript">b</hi>, 591<hi rend="superscript">c</hi>; SEG XI 518 (C.
-                  Julius </note>
-               <note>[Agatho]kles)<hi rend="superscript">d</hi>
+                     rend="superscript">b</hi>, 591<hi rend="superscript">c</hi>; SEG XI 518 (C. Julius [Agatho]kles)<hi rend="superscript">d</hi> <!--Correction: Typo, Fixed Line seperation-->
                </note>
                <note>Son of [Hi]ppothraes (2)<hi rend="superscript">b</hi>
                </note>
@@ -361,8 +353,7 @@
             <person xml:id="grp-39">
                <name>Ἀγαθοκλῆς (9)</name>
                <floruit>REIGN OF VESPASIAN</floruit>
-               <note>IG V 1. 676; {SEG XI 842<hi rend="smallcaps">d</hi>, addenda et corrigenda: AD
-                  75/6}</note>
+               <note>IG V 1. 676; {SEG XI 842<hi rend="smallcaps">d</hi>, addenda et corrigenda: AD 75/6}</note> <!--Correction: Fixed formatting-->
                <note>Son of [K]leophantos (2)</note>
                <note>Eponymous patronomos, ca. AD 70-80</note>
             </person>
@@ -371,8 +362,7 @@
                <floruit>REIGN OF TRAJAN</floruit>
                <note>SEG XI 542</note>
                <note>Son of Xenokrates (3)</note>
-               <note>Presb(ys) of no[m]ophylakes in the year of L. Vo[lusenus </note>
-               <note>Aristokrate]s (10), ca. 100/1</note>
+               <note>Presb(ys) of no[m]ophylakes in the year of L. Vo[lusenus Aristokrate]s (10), ca. 100/1</note> <!--Correction: Fixed line seperation-->
             </person>
             <person xml:id="grp-41">
                <name>Γά(ιος) Ἰού(λιος) Ἀγαθοκλῆς (11)</name>
@@ -629,16 +619,15 @@
                </note>
                <note>[K]asen to Phi[letos] (4)<hi rend="superscript">b</hi>
                </note>
-               <note>Victor [mikichid]domenon of the [keloia] in the year of Aelius Al[kan-</note>
-               <note>dridas] (2)<hi rend="superscript">b</hi>; paid for a memorial to his own
-                  brother, M. Aur(elius) </note>
+               <note>Victor [mikichid]domenon of the [keloia] in the year of Aelius Al[kandridas] (2)<hi rend="superscript">b</hi>; <!--Correction: Typo, fixed hypen and rejoined]-->
+                  paid for a memorial to his own brother, M. Aur(elius) </note>
                <note>Philetos (1)<hi rend="superscript">a</hi>
                </note>
             </person>
             <person xml:id="grp-75">
                <name>Αὐρ(ήλιος) Ἀγαθόπο[υς] (2)</name>
                <floruit>EARLY III AD</floruit>
-               <note>IG V 1. 684 (SEG XI 844<hi rend="smallcaps">b</hi> [addenda et
+               <note>IG V 1. 684 (SEG XI 844<hi rend="smallcaps">b</hi> [addenda et <!--Ask if these should be fixed, since it looks funky.-->
                   corrigenda])</note>
                <note>Of the [Cynosu]rian obe</note>
                <note>Sph[aireus]</note>
@@ -678,13 +667,13 @@
             <person xml:id="grp-81">
                <name>Ἀγαμέ[ν]η[ς]</name>
                <floruit>END III BC</floruit>
-               <note>IG II<hi rend="superscript">2</hi> 835 (Helen Pope, <hi rend="italic"
-                     >Foreigners in Attic Inscriptions</hi>, Philadelphia, </note>
+               <note>IG II<hi rend="superscript">2</hi> 835 (Helen Pope, <hi rend="italic"> <!--Correction: just fixed formatting.-->
+                     Foreigners in Attic Inscriptions</hi>, Philadelphia, </note>
                <note>1947, “Lacedaemonii”)</note>
                <note>Son of Apolla—</note>
                <note>Brother of Tharrhynon</note>
-               <note>His father (and himself as his father’s descendant) was granted the rights </note>
-               <note>of proxenia by the Athenians in a year soon after 229/8 BC.</note>
+               <note>His father (and himself as his father’s descendant) was granted the rights
+                  of proxenia by the Athenians in a year soon after 229/8 BC.</note>   <!--Correction: Typo, rejoined sentence seperated by line.-->
             </person>
             <person xml:id="grp-82">
                <name>Ἀγαπητός</name>
@@ -743,8 +732,7 @@
                <floruit>MID II BC</floruit>
                <note>Pausanias VII 12.7</note>
                <note>Author of a motion in the gerousia, ca. 150 BC, that twenty-four citizens go
-                  into voluntary exile to avoid furnishing the Achaean League with a pretext </note>
-               <note>for war.</note>
+                  into voluntary exile to avoid furnishing the Achaean League with a pretext for war.</note> <!--Correction: Typo, rejoined sentence from separeted line.-->
             </person>
             <person xml:id="grp-89">
                <name>Ἀγγενίδας</name>
@@ -820,11 +808,10 @@
                <note>Rizakis #254; IG V 1. [58]<hi rend="superscript">a</hi>, 667<hi
                      rend="superscript">b</hi>; SEG XI 563<hi rend="superscript">c</hi>
                </note>
-               <note>Agonothetes of the Greater Uranian Augustan Nervian games in the year </note>
-               <note>of Menekles (5), AD 96/7<hi rend="superscript">b</hi>; [gerousias]<hi
+               <note>Agonothetes of the Greater Uranian Augustan Nervian games in the year of Menekles (5), AD 96/7 <!--Correction: Typo, rejoined sentence.-->
+                  <hi rend="superscript">b</hi>; [gerousias]<hi
                      rend="superscript">c</hi>; pres[bys] of [ephors?]<hi rend="superscript">a</hi>
-                  in the </note>
-               <note>year of [Agesi]las, ca. 97/8 or [Prato]las ca. 115-120</note>
+                  in the year of [Agesi]las, ca. 97/8 or [Prato]las ca. 115-120</note> <!--Correction: Typo, rejoined sentence.-->
             </person>
             <person xml:id="grp-97">
                <name>Ἀγήμων (3)</name>
@@ -885,7 +872,7 @@
                </note>
                <note style="text-align: justify;">In 431 BC, as part of the third Spartan embassy,
                   he presented the </note>
-               <note style="text-align: justify;"> ultimatum to Athens before the outbreak of the
+               <note style="text-align: justify;"> ultimatum to Athens before the outbreak of the <!--Ask Huskey, Issue with style: text-align-->
                   Peloponnesian War.</note>
             </person>
             <person xml:id="grp-102">
@@ -915,7 +902,7 @@
                <note style="text-align: justify;">Agid king</note>
                <note style="text-align: justify;">According to the ancient chronographers he ruled
                   for 44 years, but </note>
-               <note style="text-align: justify;"> Pausanias assigns him only a short reign.</note>
+               <note style="text-align: justify;"> Pausanias assigns him only a short reign.</note><!--Ask Huskey, Issue with style: text-align-->
             </person>
             <person xml:id="grp-105">
                <name>Ἀγησίλαος II</name>
@@ -1092,7 +1079,7 @@
                <note style="text-align: justify;">Here erroneously as the father of Pausanias (the
                   victor of Plataea) when </note>
                <note style="text-align: justify;"> the name should have been Kleombrotos (cf.
-                  Alkathoa note)</note>
+                  Alkathoa note)</note> <!--Ask Huskey, Issue with style: text-align-->
             </person>
             <person xml:id="grp-110">
                <name>Ἀγησίλαος (1)</name>
@@ -1182,8 +1169,7 @@
                <floruit>I BC</floruit>
                <note>IG V 1. 210</note>
                <note>Son of Lachares (5)</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of </note>
-               <note>Kallikrates (33)</note>
+               <note>Member of the cult of Poseidon of Taenarum in the year of Kallikrates (33)</note> <!--Correction: Rejoined word to sentence.-->
             </person>
             <person xml:id="grp-119">
                <name>Ἀγησίνικος (3)</name>
@@ -1210,7 +1196,7 @@
                <floruit>I AD?</floruit>
                <note>IG V 1. 50<hi rend="smallcaps">b</hi>; SEG XI 505</note>
                <note>Son of Sokleidas (6)</note>
-               <note>[Ephor in the year of Kallikrates (33)]</note>
+               <note>[Ephor in the year of Kallikrates (33)]</note> <!--End Session Here-->
             </person>
             <person xml:id="grp-122">
                <name>Ἀγησίνικος (6)</name>

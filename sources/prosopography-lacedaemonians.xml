@@ -1004,8 +1004,7 @@
                </note>
                <note style="text-align: justify;">At the peace conference in Sparta in 387/6 he
                   forced through the recognition of the King’s Peace on the part of the Thebans and
-                  the dissolution of the just founded city Corinth-Argos.<hi rend="superscript"
-                     >Cz</hi>
+                  the dissolution of the just founded city Corinth-Argos.<hi rend="superscript">Cz</hi> <!--Correction: Just fixed formatting, the end "hi" was seperated-->
                </note>
                <note style="text-align: justify;">In the fall of 381 he struck against Phlius, which
                   he took after a siege of twenty months.<hi rend="superscript">C</hi>
@@ -1036,15 +1035,14 @@
                   demoted by Tachos he went over to Nectanebo and did important service for him.
                   Therefore, when he prepared his return home, he was loaded with rich gifts. He
                   never reached his homeland, but died in the winter of 360/59 between Egypt and
-                  Cyrene in the “harbor of Menelaos.” His body was brought back to Sparta.<hi
-                     rend="superscript">tde</hi>
+                  Cyrene in the “harbor of Menelaos.” His body was brought back to Sparta.
+                  <hi rend="superscript">tde</hi> <!--Correction: Reconnected the "hi rend" element-->
                </note>
             </person>
             <person xml:id="grp-106">
                <name>Ἀγησίλαος</name>
                <floruit>VI BC</floruit>
-               <note>Poralla 10 (cf. Appendix Eurypontiden); Herodotus VI 65 (“Agis”), </note>
-               <note>VIII 131</note>
+               <note>Poralla 10 (cf. Appendix Eurypontiden); Herodotus VI 65 (“Agis”), VIII 131</note> <!--Correction: Reconnected seperated line-->
                <note>Son of Hippokratidas</note>
                <note>Father of Menares</note>
                <note>Grandfather of King Leotychidas II</note>
@@ -1053,8 +1051,8 @@
             <person xml:id="grp-107">
                <name>Ἀγησίλαος</name>
                <floruit>MID IV BC</floruit>
-               <note style="text-align: justify;">Poralla 11 (cf. Appendix Eurypontiden); Arrian <hi
-                     rend="italic">Anabasis</hi> 2.13.6; Plutarch </note>
+               <note style="text-align: justify;">Poralla 11 (cf. Appendix Eurypontiden); Arrian 
+                  <hi rend="italic">Anabasis</hi> 2.13.6; Plutarch </note> <!--Correction: Reconnected the "hi rend" element-->
                <note style="text-align: justify;">
                   <hi rend="italic">Agis</hi> 3</note>
                <note style="text-align: justify;">Member of the Eurypontid royal house</note>
@@ -1099,8 +1097,7 @@
                      rend="superscript">g</hi>; Polybius IV 35.13<hi rend="superscript">h</hi>; IG
                   XII 8. 156<hi rend="superscript">i</hi>; <hi rend="italic">Prometheus</hi> VII
                   1981, pp. 35-42: Agis became king as a child and Agesilaos was his regent.</note>
-               <note style="text-align: justify;">Son of Eudamidas [(1) I]<hi rend="superscript"
-                     >h</hi>
+               <note style="text-align: justify;">Son of Eudamidas [(1) I]<hi rend="superscript">h</hi> <!--Correction: Reconnected the "hi rend" element-->
                </note>
                <note style="text-align: justify;">Father of Hippomedon (1)<hi rend="superscript"
                      >adhi</hi>
@@ -1148,8 +1145,7 @@
                <note style="text-align: justify;">Rizakis #358 (two individuals); IG V 1. 378 (error
                   of inscriber for Charixenos [6]?—a conflation of Flavius Charixenos and Julius
                   Agesilaos?)</note>
-               <note style="text-align: justify;">Dedication to the emperors and to
-                  Lacedaemon</note>
+               <note style="text-align: justify;">Dedication to the emperors and to Lacedaemon</note> <!--Correction: Put it back on one line [no note seperation]-->
             </person>
             <person xml:id="grp-116">
                <name>(Ἀγησίλαος [7])</name>
@@ -1225,15 +1221,13 @@
                <note style="text-align: justify;">Brother of Kleombrotos</note>
                <note style="text-align: justify;">When his father went into exile after the battle
                   of Haliartos in 395, Agesipolis ascended the throne<hi rend="superscript">ac</hi>.
-                  Since he was still a minor, he had a regent, Aristodemus<hi rend="superscript"
-                     >d</hi>. </note>
+                  Since he was still a minor, he had a regent, Aristodemus<hi rend="superscript">d</hi>. </note> <!--Corretion: Put it back on one line [no note seperation]-->
                <note style="text-align: justify;">In 388/7 he led a successful campaign against the
                      Argives<hi rend="superscript">e</hi>. In 385/4 he forced Mantinea to disband
                   the league it had formed<hi rend="superscript">f</hi>. In the year 381 he invaded
                   Chalcidice with a great army, but died shortly after the capture of Torone in
                   Summer 380. </note>
-               <note style="text-align: justify;">His body was brought to Sparta<hi
-                     rend="superscript">bg</hi>.</note>
+               <note style="text-align: justify;">His body was brought to Sparta<hi rend="superscript">bg</hi>.</note> <!--Correction: Reconnected the "hi rend" element-->
             </person>
             <person xml:id="grp-125">
                <name>Ἀγησίπολις II</name>
@@ -1244,8 +1238,7 @@
                </note>
                <note style="text-align: justify;">Son of Kleombrotos<hi rend="superscript">a</hi>
                </note>
-               <note style="text-align: justify;">Brother of Kleomenes II<hi rend="superscript"
-                     >a</hi>
+               <note style="text-align: justify;">Brother of Kleomenes II<hi rend="superscript">a</hi> <!--Correction: Reconnected the "hi rend" element-->
                </note>
                <note style="text-align: justify;">Agid king<hi rend="superscript">a</hi>
                </note>
@@ -1256,8 +1249,8 @@
             <person xml:id="grp-126">
                <name>Ἀγησίπολις (1)</name>
                <floruit>MID-END III BC</floruit>
-               <note style="text-align: justify;">Polybius IV 35.10-12; [Plutarch <hi rend="italic"
-                     >Agis</hi> 18.3]</note>
+               <note style="text-align: justify;">Polybius IV 35.10-12; [Plutarch 
+                  <hi rend="italic">Agis</hi> 18.3]</note> <!--Correction: Reconnected the "hi rend" element-->
                <note style="text-align: justify;">Son of Kleombrotos (1) II and Chilonis (2)</note>
                <note style="text-align: justify;">Brother of Kleomenes (2)</note>
                <note style="text-align: justify;">Father of Agesipolis (2) III</note>
@@ -1268,18 +1261,17 @@
                <name>Ἀγησίπολις (2) III</name>
                <floruit>III\II BC</floruit>
                <note style="text-align: justify;">Polybius IV 35.10-12<hi rend="superscript">a</hi>;
-                  XXIII 6.1-2<hi rend="superscript">b</hi>; Livy XXXIV 26.14<hi rend="superscript"
-                     >c</hi>
+                  XXIII 6.1-2<hi rend="superscript">b</hi>; Livy XXXIV 26.14<hi rend="superscript">c</hi> <!--Correction: Reconnected the "hi rend" element-->
                </note>
                <note style="text-align: justify;">Son of Agesipolis (1)<hi rend="superscript">a</hi>
                </note>
-               <note style="text-align: justify;">Grandson of Kleombrotos (1) II<hi
-                     rend="superscript">a</hi>
+               <note style="text-align: justify;">Grandson of Kleombrotos (1) II
+                  <hi rend="superscript">a</hi> <!--Correction: Reconnected the "hi rend" element [Should I really be worried about these?]-->
                </note>
                <note style="text-align: justify;">Agiad king</note>
                <note style="text-align: justify;">He was appointed king as a child after the death
                   of Kleomenes (1) III, </note>
-               <note style="text-align: justify;">219 BC<hi rend="superscript">ab</hi> His uncle,
+               <note style="text-align: justify;">219 BC<hi rend="superscript">ab</hi> His uncle, <!--Await for Huskeys instructions-->
                   Kleomenes (2), was regent<hi rend="superscript">a</hi>. He was expelled by
                   Lykourgos (1)<hi rend="superscript">c</hi>. As an envoy to Rome, ca. 184 BC, he
                   was killed by pirates<hi rend="superscript">b</hi>.</note>
@@ -1514,7 +1506,7 @@
                </note>
                <note style="text-align: justify;">Gerousias for the third time in the year of C.
                   Ju(lius) Philoklidas (3)<hi rend="superscript">ce</hi>, ca. </note>
-               <note style="text-align: justify;">AD 91/2-95/6</note>
+               <note style="text-align: justify;">AD 91/2-95/6</note> <!--Another funky line-->
                <note style="text-align: justify;">Gerousias for the fourth time in the year of L.
                   V[o]lusenus Aristokrates (10)<hi rend="superscript">f</hi>, ca. AD 100/1</note>
             </person>
@@ -1558,8 +1550,7 @@
             <person xml:id="grp-159">
                <name>Ἁγίας</name>
                <floruit>END V BC</floruit>
-               <note>Poralla 22; Pausanias III 11. 5-6, X 9.7 (where his name is written
-                  Ἄβας)</note>
+               <note>Poralla 22; Pausanias III 11. 5-6, X 9.7 (where his name is written Ἄβας)</note> <!--Correction: Formatting fix.-->
                <note style="text-align: justify;">Son of Agelochos</note>
                <note style="text-align: justify;">He belonged to the Elean family of seers which had
                   been given citizenship in Sparta around 480. He took part in the battle of
@@ -1591,7 +1582,7 @@
                   him</note>
                <note style="text-align: justify;">Wife of Kleomenes (1) III and mother of at least
                   two sons by him </note>
-               <note style="text-align: justify;">(<hi rend="italic">Cleom</hi>. 38.3)</note>
+               <note style="text-align: justify;">(<hi rend="italic">Cleom</hi>. 38.3)</note> <!--ANOTHER ONE-->
                <note style="text-align: justify;">She was a wealthy woman. After the death of Agis
                   IV, Leonidas (1) II forced her to marry his son, Kleomenes, so that her wealth
                   would not pass to another. She was supposed to have encouraged Kleomenes in his
@@ -1640,7 +1631,7 @@
                <name>Ἄγιππος (1b)</name>
                <floruit>MID II AD</floruit>
                <note>IG V 1. 114<hi rend="superscript">a</hi>; SEG XI 516<hi rend="superscript"
-                     >b</hi>
+                     >b</hi> <!--Decide on whether these matter or not-->
                </note>
                <note>Son of Pollion (3)<hi rend="superscript">a</hi>
                </note>
@@ -1974,8 +1965,8 @@
                      url="media/image5.jpeg" rend="inline">
                      <desc>Esigla 18</desc>
                   </graphic>), Tafel 5 (102)</note>
-               <note>Name on a coin—perhaps the mint official but more likely the holder of </note>
-               <note>the eponymous office, at this date probably the eponymous patronomos</note>
+               <note>Name on a coin—perhaps the mint official but more likely the holder of 
+                  the eponymous office, at this date probably the eponymous patronomos</note> <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-195">
                <name>[Ἀγρ]ίππας, IG V 1. 175, error for ἀλείπτας, cf. SEG XI 633</name>
@@ -2239,8 +2230,8 @@
                <name>Αἴνητος</name>
                <floruit>END V BC</floruit>
                <note>Poralla 42; IG V 1. 701</note>
-               <note>A Laconian, who fell in war; an inscription of about the year 400 found </note>
-               <note>in Magula near Sparta</note>
+               <note>A Laconian, who fell in war; an inscription of about the year 400 
+                  found in Magula near Sparta</note> <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-235">
                <name>Αἴνητος</name>
@@ -2306,8 +2297,8 @@
                <name>Ἄκανθος</name>
                <floruit>MID V BC</floruit>
                <note>Poralla 47; Thucydides V 19, 24</note>
-               <note>As a member of the college of ephors he concluded the peace of Nikias </note>
-               <note>and the alliance with Athens in spring 421. </note>
+               <note>As a member of the college of ephors he concluded the peace of Nikias
+                   and the alliance with Athens in spring 421. </note> <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-245">
                <name>Ἀκίνδοινος</name>
@@ -2350,7 +2341,7 @@
                      rend="subscript">5</hi> [48I20], [57B15], 58,26, [61B34], [92A23]</note>
                <note style="text-align: justify;">Naopoios in Delphi under the archon Demochares
                   338/7 and Kaphis </note>
-               <note style="text-align: justify;">331/30 and spring 327 BC</note>
+               <note style="text-align: justify;">331/30 and spring 327 BC</note> <!--ANOTHER HUSKEY-->
             </person>
             <person xml:id="grp-250">
                <name>Ἀκρότατος (1)</name>
@@ -2589,7 +2580,7 @@
                <note style="text-align: justify;">Presbys of nomophylakes in the year of C. Julius
                   Philoklidas (3)<hi rend="superscript">abd</hi>, </note>
                <note style="text-align: justify;">AD 91/2-95/6; [gerousias]<hi rend="superscript"
-                     >c</hi>
+                     >c</hi> <!--ANOTHER HUSKEY-->
                </note>
             </person>
             <person xml:id="grp-276">
@@ -2636,7 +2627,7 @@
                <note style="text-align: justify;">[Gerousias] for the second time<hi
                      rend="superscript">c</hi> {in the year of Menekles, 96/7}</note>
                <note style="text-align: justify;">Gerousias for the third time in the year of L.
-                  Volusenus Aristokrates (10a) {that is, his name was inadvertently omitted from the
+                  Volusenus Aristokrates (10a) (that is, his name was inadvertently omitted from the <!--Correction: Typo of { instead of (.-->
                   list and inscribed on the adjacent block)<hi rend="superscript">d</hi>
                </note>
             </person>
@@ -2784,11 +2775,11 @@
                <note style="text-align: justify;"> SEG XI 844)]<hi rend="superscript">d</hi>; SEG XI
                      499<hi rend="superscript">e</hi>, 803<hi rend="superscript">f</hi>; <hi
                      rend="italic">IOlymp</hi> 238<hi rend="superscript">g</hi>; <hi rend="italic"
-                     >Orthia</hi> 330, 63<hi rend="superscript">h</hi>
+                     >Orthia</hi> 330, 63<hi rend="superscript">h</hi> <!--This whole thing is a mess, ask Huskey.-->
                </note>
                <note style="text-align: justify;">Son of Damokratidas (3)<hi rend="superscript"
                      >bfg</hi>
-               </note>
+               </note> <!--End session here.-->
                <note style="text-align: justify;">Twice periodonikes and victor in many contests<hi
                      rend="superscript">bcf</hi>, dedication at Olympia for victory, ca. AD 221 and
                      225<hi rend="superscript">g</hi>, “best of the Greeks”<hi rend="superscript"

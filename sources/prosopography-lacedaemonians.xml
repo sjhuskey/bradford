@@ -9440,8 +9440,7 @@
                <floruit>I BC</floruit>
                <note>IG V 1. 212</note>
                <note>Son of Habrias (2)</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of </note>
-               <note>Aristomachos (3)</note>
+               <note>Member of the cult of Poseidon of Taenarum in the year of Aristomachos (3)</note> <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-1089">
                <name>Γοργώπας (3)</name>
@@ -9478,8 +9477,7 @@
                <floruit>END I AD</floruit>
                <note>Rizakis 373; IG V 1. 97; SEG XI 564</note>
                <note>Son of Gra[nio]s (2)</note>
-               <note>Gerousias for the third time in the year of C. Julius Philoklidas (3), </note>
-               <note>91/2-95/6</note>
+               <note>Gerousias for the third time in the year of C. Julius Philoklidas (3), 91/2-95/6</note> <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-1094">
                <name>Γρά[νιο]ς (2)</name>
@@ -9589,8 +9587,7 @@
                <name>Γυρίδας</name>
                <floruit>DIED 220 BC</floruit>
                <note>Polybius IV 35.5</note>
-               <note>A gerousias, pro-Macedonian, murdered by the pro-Aetolian party in
-                  Sparta</note>
+               <note>A gerousias, pro-Macedonian, murdered by the pro-Aetolian party in Sparta</note> <!--Correction: Fixed formatting.-->
             </person>
             <person xml:id="grp-1106">
                <name>Γυρτιάς</name>
@@ -9703,8 +9700,7 @@
                <name>Δάιθος</name>
                <floruit>END V BC</floruit>
                <note>Poralla 202; Thucydides V 19-24</note>
-               <note>A Spartiate, who helped arrange the peace of 421 and the alliance with
-                  Athens</note>
+               <note>A Spartiate, who helped arrange the peace of 421 and the alliance with Athens</note> <!--Correction: Fixed formatting.-->
             </person>
             <person xml:id="grp-1120">
                <name>Δαικράτ[ης]</name>
@@ -9746,8 +9742,7 @@
                <name>Δάκων</name>
                <floruit>END II AD</floruit>
                <note>Steinhauer, BSA 93, pp. 427-447, #7a, plate 74b</note>
-               <note style="text-align: justify;">Father of a gerousias (?) in the year of
-                  Anonymus</note>
+               <note style="text-align: justify;">Father of a gerousias (?) in the year of Anonymus</note> <!--Correction: Fixed formatting.-->
             </person>
             <person xml:id="grp-1126">
                <name>ΔΑΜ</name>
@@ -9838,8 +9833,7 @@
                <floruit>END V BC</floruit>
                <note>Poralla 207; Thucydides V 19, 24.</note>
                <note>Ephor of the year 422/21</note>
-               <note>In this office he swore to the peace of Nicias and the alliance with
-                  Athens.</note>
+               <note>In this office he swore to the peace of Nicias and the alliance with Athens.</note> <!--Correction: Fixed formatting.-->
                <note>(Perhaps a descendant of Chilon the Wise)</note>
             </person>
             <person xml:id="grp-1137">
@@ -9847,15 +9841,14 @@
                <floruit>I BC</floruit>
                <note>IG V 1. 211</note>
                <note>Son of Timokrate[s] (13)</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of
-                  Aristokratidas (1)</note>
+               <note>Member of the cult of Poseidon of Taenarum in the year of Aristokratidas (1)</note> <!--Correction: Fixed formatting.-->
             </person>
             <person xml:id="grp-1138">
                <name>Δαμαγόρα</name>
                <floruit>VII BC</floruit>
                <note>Poralla 208; D. L. Page,
-                  <hi rend="italic" xml:space="preserve">Alcman, the Partheneion, </hi>Oxford, 1951,
-                  cf. Δαμαρέτα.</note>
+                  <hi rend="italic" xml:space="preserve">Alcman, the Partheneion, 
+                  </hi>Oxford, 1951, cf. Δαμαρέτα.</note> <!--Correction: Fixed formatting.-->
                <note>A maiden mentioned in Alcman's <hi rend="italic">Parthenion</hi>.</note>
             </person>
             <person xml:id="grp-1139">
@@ -10050,8 +10043,7 @@
             <person xml:id="grp-1155">
                <name>Δαμάρατος</name>
                <floruit>MID IV BC</floruit>
-               <note>Poralla 211; Sextus Empiricus <hi rend="italic">adversus mathematicos</hi> I
-                  258</note>
+               <note>Poralla 211; Sextus Empiricus <hi rend="italic">adversus mathematicos</hi> I 258</note> <!--Correction: Fixed formatting.-->
                <note>Son of Prokles and Pythia (the daughter of the philosopher Aristotle)</note>
                <note>Brother of Prokles</note>
                <note>Descendant of the exiled king Damaratos</note>
@@ -10074,8 +10066,7 @@
                <floruit>I BC</floruit>
                <note>IG V 1. 210</note>
                <note>Son of Archon (2)</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of
-                  Kallikrates (33)</note>
+               <note>Member of the cult of Poseidon of Taenarum in the year of Kallikrates (33)</note> <!--Correction: Fixed formatting.-->
             </person>
             <person xml:id="grp-1159">
                <name>Δ[α]μάρης (3)</name>
@@ -10093,8 +10084,7 @@
                <name>Πό(πλιος) Μέμ(μιος) Δαμάρη[ς] (4)</name>
                <floruit>LATE II AD</floruit>
                <note>Rizakis 558; IG V 1. 547; SEG XI 798</note>
-               <note>Son of P. Memmius Pratolaos (4) ho kai Aristokles and Claudia Longina
-                  (1)</note>
+               <note>Son of P. Memmius Pratolaos (4) ho kai Aristokles and Claudia Longina (1)</note> <!--Correction: Fixed formatting.-->
                <note>Brother of Memmia Longina (2)</note>
                <note>He and his parents paid for three statues to honor his brother-in-law, </note>
                <note>Pomponius Panthales (2) Diogenes Aristeas</note>
@@ -10115,11 +10105,9 @@
                <note>Neon (2) was k(asen) to him<hi rend="superscript">c</hi>
                </note>
                <note>(Neon possibly one and the same person, a possible inscriber’s error)</note>
-               <note>Ephor in the year of C. Julius Eudamos, ca. 139/40-42<hi rend="superscript"
-                     >b</hi>
+               <note>Ephor in the year of C. Julius Eudamos, ca. 139/40-42<hi rend="superscript">b</hi> <!--Correction: Fixed formatting.-->
                </note>
-               <note>Gra(mmateus) boulas in the year of Biadas, ca. 153/4<hi rend="superscript"
-                     >g</hi>
+               <note>Gra(mmateus) boulas in the year of Biadas, ca. 153/4<hi rend="superscript">g</hi> <!--Correction: Fixed formatting.-->
                </note>
                <note>Eponymous patronomos (ca. 142/3?)<hi rend="superscript">ef</hi>; subject of an
                   honorary decree for having done well by the city; aristopoliteutes according to
@@ -10594,8 +10582,7 @@
                <floruit>I BC</floruit>
                <note>IG V 1. 210</note>
                <note>Son of Euameridas</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of
-                  Kallikrates (33)</note>
+               <note>Member of the cult of Poseidon of Taenarum in the year of Kallikrates (33)</note> <!--Correction: Fixed formatting.-->
             </person>
             <person xml:id="grp-1221">
                <name>Δάμιππος (6)</name>
@@ -10884,8 +10871,7 @@
                <floruit>I BC</floruit>
                <note>IG V 1. 212</note>
                <note>Son of Sionidas</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of </note>
-               <note>Aristomachos (3)</note>
+               <note>Member of the cult of Poseidon of Taenarum in the year of Aristomachos (3)</note> <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-1250">
                <name>Δαμοκλῆς (7)</name>
@@ -11001,8 +10987,7 @@
                <floruit>I BC</floruit>
                <note>IG V 1. 210</note>
                <note>Son of Aphrodisios (9)</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of
-                  Kallikrates (33)</note>
+               <note>Member of the cult of Poseidon of Taenarum in the year of Kallikrates (33)</note> <!--Correction: Fixed formatting.-->
             </person>
             <person xml:id="grp-1265">
                <name>Τ(ιβέριος) Κλαύδιος Δαμοκράτης (2)</name>
@@ -11041,8 +11026,7 @@
                <floruit>I BC</floruit>
                <note>IG V 1. 212</note>
                <note>Son of Damion (6)</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of </note>
-               <note>Aristomachos (3)</note>
+               <note>Member of the cult of Poseidon of Taenarum in the year of Aristomachos (3)</note> <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-1269">
                <name>Δαμοκ[ράτης] (6)</name>
@@ -11176,8 +11160,7 @@
                <name>Δαμοκράτης (17)</name>
                <floruit>MID III BC</floruit>
                <note>Plutarch <hi rend="italic">Cleomenes</hi> 4.5.</note>
-               <note>A Lacedaemonian exile with Aratus early in the reign of Kleomenes (1)
-                  III</note>
+               <note>A Lacedaemonian exile with Aratus early in the reign of Kleomenes (1) III</note> <!--Correction: Fixed formatting.-->
             </person>
             <person xml:id="grp-1282">
                <name>Δαμοκράτης (18)</name>
@@ -11349,8 +11332,7 @@
             <person xml:id="grp-1307">
                <name>[M]εμμία Δαμοκρατία (4)</name>
                <floruit>II AD</floruit>
-               <note>Rizakis 538 (Stemmata I, VI, XIII); IG V 1. 581 (Spawforth BSA 80, </note>
-               <note>1985, 220)</note>
+               <note>Rizakis 538 (Stemmata I, VI, XIII); IG V 1. 581 (Spawforth BSA 80, 1985, 220)</note> <!--Correction: Rejoined sentence from broken note.-->
                <note>Wife of L. Volusenus Damares (13)</note>
                <note>Honored for her moderation and philanthropy</note>
             </person>
@@ -11541,8 +11523,7 @@
                <floruit>I BC</floruit>
                <note>IG V. 1. 212</note>
                <note>Son of Philoxenos (5)</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of Aristomachos
-                  (3)</note>
+               <note>Member of the cult of Poseidon of Taenarum in the year of Aristomachos (3)</note> <!--Correction: Fixed formatting.-->
             </person>
             <person xml:id="grp-1326">
                <name>Δαμ[όλας] (3)</name>
@@ -11653,8 +11634,7 @@
                <name>Δαμονικίδας (9)</name>
                <floruit>I\II AD</floruit>
                <note>IG V 1. 1315</note>
-               <note>Wrote and inscribed—ἔγρα(ψε) καὶ ἐχάραξε—a decree in the year of Eurykles
-                  (2)</note>
+               <note>Wrote and inscribed—ἔγρα(ψε) καὶ ἐχάραξε—a decree in the year of Eurykles (2)</note> <!--Correction: Fixed formatting.-->
             </person>
             <person xml:id="grp-1342">
                <name>(Δαμονεικίδας [10])</name>
@@ -11947,8 +11927,8 @@
                <name>Δάμους</name>
                <floruit>II AD</floruit>
                <note>IG V 1. 1187</note>
-               <note>Gravemarker in Gythium: thirty-two years, seven months, five days old at
-                  death</note>
+               <note>Gravemarker in Gythium: thirty-two years, seven months, five days old at death</note> 
+               <!--Correction: Fixed formatting.[Very specific death date]-->
             </person>
             <person xml:id="grp-1374">
                <name>Δαμούσα</name>
@@ -12377,8 +12357,7 @@
                <floruit>I BC</floruit>
                <note>IG V 1. 212</note>
                <note>Son of Onasikleidas (2)</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of Aristomachos
-                  (3)</note>
+               <note>Member of the cult of Poseidon of Taenarum in the year of Aristomachos (3)</note> <!--Correction: Fixed formatting.-->
             </person>
             <person xml:id="grp-1424">
                <name>Δέξιππος</name>
@@ -12786,8 +12765,7 @@
                <name>Δεινιάδας</name>
                <floruit>END V BC</floruit>
                <note>Poralla 221; Thucydides VIII 22</note>
-               <note>A perioikos, who in the year 412 commanded a unit of the fleet near
-                  Lesbos</note>
+               <note>A perioikos, who in the year 412 commanded a unit of the fleet near Lesbos</note> <!--Correction: Fixed formatting.-->
             </person>
             <person xml:id="grp-1473">
                <name>Δεινίδας</name>
@@ -12829,8 +12807,8 @@
             <person xml:id="grp-1477">
                <name>Δινοκρά[της] (1) = (2)?</name>
                <floruit>I BC-I AD</floruit>
-               <note>IG V 1. 50<hi rend="smallcaps">b</hi>; [SEG XI 505] (see also Deinidas
-                  above)</note>
+               <note>IG V 1. 50<hi rend="smallcaps">b</hi>; 
+                  [SEG XI 505] (see also Deinidas above)</note> <!--Correction: Fixed formatting.-->
                <note>Son of Damoti[on]</note>
                <note>Nomophylax in the year of Kallikrates (33)</note>
             </person>
@@ -12889,8 +12867,8 @@
                      rend="italic">Inschriften von Olympia</hi> 171; <hi rend="italic">Olymp</hi>
                   478; <hi rend="italic">POxy</hi> 12 (—σθένης); L. Moretti, IAG #31.</note>
                <note>Son of Deinosthenes (1)</note>
-               <note>He won the stadion in the Olympic games in the 116th Olympiad, </note>
-               <note>i. e. 316 BC</note>
+               <note>He won the stadion in the Olympic games in the 116th Olympiad, i. e. 316 BC</note>
+               <!--Correction: Rejoined the sentence from broken note.-->
             </person>
             <person xml:id="grp-1485">
                <name>Δείνων</name>
@@ -13374,8 +13352,7 @@
                <note>Ephor of the year 395/4</note>
                <note style="text-align: justify;">In August 394 he brought the order to Agesilaos II
                   in Thessaly, to invade Boeotia. In 391/90 he sailed with the nauarch Ekdikos to
-                  Asia Minor where he took over the command of the troops of the fallen
-                  Thibron.</note>
+                  Asia Minor where he took over the command of the troops of the fallen Thibron.</note> <!--Correction: Fixed formatting.-->
             </person>
             <person xml:id="grp-1555">
                <name>Διωλευθέριος</name>
@@ -13454,8 +13431,7 @@
                <floruit>I BC</floruit>
                <note>IG V 1. 210</note>
                <note>Son of Lysixenos</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of
-                  Kallikrates (33)</note>
+               <note>Member of the cult of Poseidon of Taenarum in the year of Kallikrates (33)</note> <!--Correction: Fixed formatting.-->
             </person>
             <person xml:id="grp-1567">
                <name>Δόντας</name>
@@ -13484,7 +13460,7 @@
                <name>Δόρκος (1)</name>
                <floruit>III-II BC</floruit>
                <note>IG V 1. 1341</note>
-               <note>Name in a catalogue of Laconian men and women</note>
+               <note>Name in a catalogue of Laconian men and women</note> <!--End of session here.-->
             </person>
             <person xml:id="grp-1571">
                <name>[Δ]όρκος (2)</name>

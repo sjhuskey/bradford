@@ -13460,7 +13460,7 @@
                <name>Δόρκος (1)</name>
                <floruit>III-II BC</floruit>
                <note>IG V 1. 1341</note>
-               <note>Name in a catalogue of Laconian men and women</note> <!--End of session here.-->
+               <note>Name in a catalogue of Laconian men and women</note> 
             </person>
             <person xml:id="grp-1571">
                <name>[Δ]όρκος (2)</name>
@@ -13524,8 +13524,8 @@
                <name>Ἀντωνία Δυνάμις</name>
                <floruit>ROMAN PERIOD</floruit>
                <note>Rizakis 27; IG V 1. 742</note>
-               <note>[Daughter/sister? of] M. Antonius Eutrapelos (a name added to the </note>
-               <note>.. inscription later), whom she predeceased</note>
+               <note>[Daughter/sister? of] M. Antonius Eutrapelos (a name added to the 
+                  .. inscription later), whom she predeceased</note> <!--Correction: Rejoined sentence from broken note.-->
                <note>Gravemarker</note>
             </person>
             <person xml:id="grp-1580">
@@ -13573,8 +13573,8 @@
                <name>E— (2)</name>
                <floruit>II\III AD</floruit>
                <note>IG V 1. 130</note>
-               <note>[Synar]ch of the [agora]nomia in the year of the god Lykour[gos] (3) —, </note>
-               <note>no earlier than AD 211-217 </note>
+               <note>[Synar]ch of the [agora]nomia in the year of the god Lykour[gos] (3) —,
+               no earlier than AD 211-217 </note> <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-1584">
                <name>E———</name>
@@ -14067,8 +14067,7 @@
                <name>Γ(άιος) Ἰούλιος Ἐπαφρόδειτος (5)</name>
                <floruit>MID II AD</floruit>
                <note>Rizakis 457; IG V 1. 71 (Ἐπαφρόδιτος)<hi rend="superscript">a</hi>, 1346 (found
-                  in E. Laconia, </note>
-               <note>cf. SEG XXIV 283)<hi rend="superscript">b</hi>
+                  in E. Laconia, cf. SEG XXIV 283)<hi rend="superscript">b</hi> <!--Correction: Rejoined sentence from broken note.-->
                </note>
                <note>Son of C. Julius Philippos (12)<hi rend="superscript">a</hi>
                </note>
@@ -15601,9 +15600,9 @@
                </note>
                <note>Eponymous patronomos<hi rend="superscript">a[b]ef</hi>, AD 139/40–ca.
                   142</note>
-               <note>Rizakis: Unpublished inscription from Steinhauer <hi rend="italic"
-                     >Eurykles</hi>: presbys of </note>
-               <note>ephors in the year of Nikephoros Marci &lt;G. Steinhauer and Stavros A.
+               <note>Rizakis: Unpublished inscription from Steinhauer <hi rend="italic">
+                     Eurykles</hi>: presbys of ephors in the year of <!--Correction: Rejoined sentence from broken note.-->
+                      Nikephoros Marci &lt;G. Steinhauer and Stavros A.
                   Paspalas, “The Euryklids and Kythera,”
                   <hi rend="italic" xml:space="preserve">Mediterranean Archaeology, </hi>2006/7,
                   Vol. 19/20, pp. 199-206&gt; </note>
@@ -15775,8 +15774,8 @@
                <name>Σέκ[στος) Πομ(πήιος) [Εὔδαμος]</name>
                <floruit>REIGN OF ANTONINUS PIUS</floruit>
                <note>Rizakis 626 (= #15); Steinhauer, BSA 93, pp. 427-447, #5a, plate 73a</note>
-               <note>[Arch]iereus of the [emperors], [phi]locaesar [and philopatri]s, son of </note>
-               <note>the city</note>
+               <note>[Arch]iereus of the [emperors], [phi]locaesar [and philopatri]s, 
+                  son of the city</note> <!--Correction: Rejoined sentence from broken note.-->
                <note>Gerousias in the year of Anonymus (a name of about eight letters)</note>
             </person>
             <person xml:id="grp-1867">
@@ -16002,7 +16001,7 @@
                <note>IG V 1. 289</note>
                <note>{Son of Eudokimos &lt;7&gt;}</note>
                <note>Father of Eudokimos (4)</note>
-               <note>{Brother of Damokrates &lt;10&gt;)</note>
+               <note>(Brother of Damokrates &lt;10&gt;)</note> <!--Correction: Typo of '{' changed to '('-->
             </person>
             <person xml:id="grp-1899">
                <name>Εὐδόκιμος (4)</name>
@@ -16156,9 +16155,8 @@
                <name>ΕΥΘ</name>
                <floruit>I AD</floruit>
                <note>IG V 1. 1314 (no letters lost after 9)</note>
-               <note>Father of Arion (4), a Spartiate [from] Taenar[um]</note>
-               <note>
-                  <hi rend="italic">or</hi> the abbreviation of an epithet</note>
+               <note>Father of Arion (4), a Spartiate [from] Taenar[um]
+                  <hi rend="italic">or</hi> the abbreviation of an epithet</note> <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-1920">
                <name>Εὔθρεισο[ς]</name>
@@ -16228,8 +16226,7 @@
                <name>Εὐθυμοκλῆς</name>
                <floruit>I\II AD</floruit>
                <note>IG V 1. 197 ([Εὐ]θυμοκ[λὴς Ἀμα]ράν[του], cf. SEG XI 596)<hi rend="superscript"
-                     >a</hi>, </note>
-               <note>1314<hi rend="superscript">b</hi>, 1315<hi rend="superscript">c</hi>
+                     >a</hi>, 1314<hi rend="superscript">b</hi>, 1315<hi rend="superscript">c</hi> <!--Correction: Rejoined sentence from broken note.-->
                </note>
                <note>Son of Amarant[os] (3)<hi rend="superscript">ac</hi>
                </note>
@@ -16284,7 +16281,7 @@
                <floruit>I\II AD</floruit>
                <note>IG V 1. 1315</note>
                <note>Son of Chid—</note>
-               <note>Bidyos in the year of Eurykles (2), AD 116/7</note>
+               <note>Bidyos in the year of Eurykles (2), AD 116/7</note> <!--End Session Here.-->
             </person>
             <person xml:id="grp-1937">
                <name>Μᾶρ(κος) Αὐρ(ήλιος) Εὔκαρπος (2)</name>

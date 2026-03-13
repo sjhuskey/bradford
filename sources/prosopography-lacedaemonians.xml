@@ -16289,8 +16289,8 @@
                <note>Rizakis 133 (AD 212 or later, specifically 219); IG V 1. 541</note>
                <note>Son of Eukarpos (3)</note>
                <note>Hipparch for life</note>
-               <note>Patronomos with the god Lykourgos (3) when Egnatius Proclus was </note>
-               <note>corrector</note>
+               <note>Patronomos with the god Lykourgos (3) when Egnatius Proclus was corrector</note> 
+               <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-1938">
                <name>Εὔκαρπος (3)</name>
@@ -16712,7 +16712,7 @@
                      >Agesilaus</hi> 1, 21; Pausanias III 15.1, 9.3; Xenophon <hi rend="italic"
                      >Agesilaus</hi> 9.6, <hi rend="italic">Hellenica</hi> IV 4.19; (<hi
                      rend="italic">Anthologia Palatina</hi> VII 426)</note>
-               <note style="text-align: justify;">Daughter of Melesippidas. second wife of king
+               <note style="text-align: justify;">Daughter of Melesippidas. Second wife of king <!--Correction: Typo, fixed capitalization of Second-->
                   Archidamos II</note>
                <note style="text-align: justify;">Mother of king Agesilaos II and Kyniska</note>
                <note style="text-align: justify;">Her second son Teleutias perhaps comes from a
@@ -17202,8 +17202,7 @@
             <person xml:id="grp-2037">
                <name>Αὐρ(ήλιος) Εὐ[τυχ]ᾶς (2)</name>
                <floruit>AFTER AD 160</floruit>
-               <note>Rizakis 137 (Woodward: Εὐ[ικτ]ᾶς?; SEG XI 633 (IG V 1. 172-175 </note>
-               <note>joined)</note>
+               <note>Rizakis 137 (Woodward: Εὐ[ικτ]ᾶς?; SEG XI 633 (IG V 1. 172-175 joined)</note> <!--Correction: Rejoined sentence from broken note.-->
                <note>Name in a catalogue of athletes</note>
             </person>
             <person xml:id="grp-2038">
@@ -17359,7 +17358,7 @@
                <note>[Epi]meletes in charge of the benefaction of the city towards —us
                   Paulinus</note>
                <note>(and the repair of the bridge, funded by Paulinus) </note>
-               <note>{= Eutychos 11)?}</note>
+               <note>{= Eutychos (11)?}</note> <!--Correction: Typo, added a '('-->
             </person>
             <person xml:id="grp-2057">
                <name>[Εὔτυχ]ος</name>
@@ -18068,8 +18067,7 @@
                <floruit>I BC</floruit>
                <note>Rizakis 535 9(9); IG V 1. 96
                   {<hi xml:space="preserve">MAI, “I” = sign of abbreviation, </hi>
-               </note>
-               <note>Μᾶ(ρκος)? or Μ(ᾶρκος) Αἴ(λιος), e.g, Μ(ᾶρκος) Αἴλιος Λεόντας (3) }</note>
+               Μᾶ(ρκος)? or Μ(ᾶρκος) Αἴ(λιος), e.g, Μ(ᾶρκος) Αἴλιος Λεόντας (3) }</note> <!--Correction: Rejoined sentence from broken note.-->
                <note>[Gerousias or member of the cult of Poseidon of Taenarum]</note>
             </person>
             <person xml:id="grp-2148">
@@ -18828,8 +18826,7 @@
                <floruit>II AD</floruit>
                <note>Rizakis 511; IG V 1. 956, 957ab</note>
                <note>Erected statues for his father-in-law, C. Julius Panthales, his daughter
-                  and</note>
-               <note>wife</note>
+                  and wife</note> <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-2233">
                <name>Θρασύβουλος</name>
@@ -19232,7 +19229,7 @@
                <name>Γά(ιος) Ἰο[ύλ(ιος)] — (9)</name>
                <floruit>II AD</floruit>
                <note>Rizakis 401; SEG XI 503</note>
-               <note>{Eponymous?} pat[r]o[nomos]</note>
+               <note>{Eponymous?} pat[r]o[nomos]</note> 
             </person>
             <person xml:id="grp-2281">
                <name>Ἰούλιος -- (10)</name>
@@ -19880,8 +19877,7 @@
             <person xml:id="grp-2353">
                <name>Γά(ιος) Ἰούλιος Καλ—</name>
                <floruit>I\II AD</floruit>
-               <note>Rizakis 432; IG V 1. 138 (cf SEG XI 615: rejection of "[kasen] to </note>
-               <note>—tikelos")</note>
+               <note>Rizakis 432; IG V 1. 138 (cf SEG XI 615: rejection of "[kasen] to —tikelos")</note> <!--Correction: Rejoined sentence from broken note.-->
                <note>[Kasen] to —tikelos</note>
                <note>Bideos in the year of Damo[kles] (2) ho k[ai] Philo[krates], AD 98/9</note>
             </person>
@@ -20239,7 +20235,7 @@
                <note>Son of Euryk[rates] (1) and Pulchra (Pourcla)</note>
                <note>"Mantis descended from S[copelus]"</note>
                <note>"Priest, blessed one, of your brother the four-armed"</note>
-               <note>[Victor} of the moa</note>
+               <note>[Victor] of the moa</note> <!--Correction: Typo, changed '}' to ']'-->
                <note>Dedication</note>
             </person>
             <person xml:id="grp-2399">
@@ -20247,7 +20243,7 @@
                <floruit>MID II AD</floruit>
                <note>IG V 1. 64<hi rend="superscript">a</hi>, 69<hi rend="superscript">b</hi>, 70<hi
                      rend="superscript">c</hi>, 71<hi rend="superscript">d</hi>
-               </note>
+               </note> <!--End session here and recheck this!-->
                <note>Son of (Kallikrates &lt;4&gt;)<hi rend="superscript">abcd</hi>
                </note>
                <note>Grandson of Aristokles (25)<hi rend="superscript">d</hi>

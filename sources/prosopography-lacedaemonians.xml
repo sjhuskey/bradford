@@ -26316,7 +26316,7 @@
                   alliance with Athens in 421. In the time between these two agreements he travelled
                   to Thrace to inform Klearidas of the peace terms.</note>
                <note>Μήνιος, Αὐρ(ήλιος) Κλέανδρος (3) ὁ καὶ</note>
-            </person> <!--End Session Here-->
+            </person> 
             <person xml:id="grp-3073">
                <name>[Σ]έκστο[ς Πομπήιος] Μηνοφά[νη]ς</name>
                <floruit>III AD</floruit>
@@ -26549,9 +26549,8 @@
                <note style="text-align: justify;">IG V 1. 68<hi rend="superscript">a</hi>, 69<hi
                      rend="superscript">b</hi>, 70<hi rend="superscript">c</hi>, 98<hi
                      rend="superscript">d</hi>, 675<hi rend="superscript">e</hi>; SEG XI 488<hi
-                     rend="superscript">f</hi>, 533<hi rend="superscript">g</hi>, 842c, addenda </note>
-               <note style="text-align: justify;"> et corrigenda (proposed date of his patronomia:
-                  AD 106/7)</note>
+                     rend="superscript">f</hi>, 533<hi rend="superscript">g</hi>, 842c, addenda 
+                     et corrigenda (proposed date of his patronomia: AD 106/7)</note> <!--Correction: Rejoined sentence from broken note.-->
                <note>Philokles (5)<hi rend="superscript">bc</hi> and Philonidas (4)<hi
                      rend="superscript">ag</hi> kasen to him</note>
                <note>Eponymous patronomos<hi rend="superscript">def</hi>, AD 91/2-94/5 or
@@ -26655,8 +26654,7 @@
                <name>Μουσαῖος (5)</name>
                <floruit>II AD</floruit>
                <note style="text-align: justify;">IG V 1. 20<hi rend="smallcaps">b</hi>, 36B; SEG XI
-                  517, 540, 611; A. M. Woodward, BSA </note>
-               <note style="text-align: justify;"> XXVI (1925) 168, C6, C7</note>
+                  517, 540, 611; A. M. Woodward, BSA XXVI (1925) 168, C6, C7</note> <!--Correction: Rejoined sentence from broken note.-->
                <note>Father of Aristoneikidas (3)</note>
             </person>
             <person xml:id="grp-3113">
@@ -26697,8 +26695,8 @@
                   contemporary of Chilon belonging to the sixth century. According to some sources
                   he came from Chen in Oita, according to others from Chen in Laconia.</note>
                <note>Μωλόσιος see Καλλικράτης (8) </note>
-               <note>(The word have been interpreted variously as μῶλα, having to do with </note>
-               <note>battle or λοχις (λόξος), or μῶ(α), Doric for μοῦσα.)</note>
+               <note>(The word have been interpreted variously as μῶλα, having to do with <!--HUSKEY-->
+                  battle or λοχις (λόξος), or μῶ(α), Doric for μοῦσα.)</note> <!--Correction: Rejoined sentence from broken note.-->
                <note>
                   <pb/>
                </note>
@@ -26742,8 +26740,8 @@
             <person xml:id="grp-3123">
                <name>Ἰουλία N—- (5) [...]...σωνος</name>
                <floruit>ROMAN TIMES</floruit>
-               <note>Rizakis 388 (“Antonine” – Stemma VII); IG V 1. 605 (name and </note>
-               <note>patronymic)</note>
+               <note>Rizakis 388 (“Antonine” – Stemma VII); IG V 1. 605 (name and patronymic)</note>
+               <!--Correction: Rejoined sentence from broken note.-->
                <note>Daughter of —son</note>
                <note>Wife of Pu(blius) — (1) (<hi rend="italic" xml:space="preserve">or is </hi>
                   <hi rend="italic">ΠΟΥ = ΓΙΟΥ</hi>
@@ -27098,7 +27096,7 @@
                <note>Son of Philokalos (1)<hi rend="superscript">ab</hi>
                </note>
                <note style="text-align: justify;">
-                  <hi rend="italic">{Grandfather of Nedymos (2)?)</hi>
+                  <hi rend="italic">(Grandfather of Nedymos (2)?)</hi> <!--Correction: Typo fixed '{' to '('-->
                </note>
                <note style="text-align: justify;">Name in a catalogue<hi rend="superscript">a</hi>;
                   gerousias in the year of L. V[o]lusenus Aristokrates (10)<hi rend="superscript"
@@ -27111,7 +27109,7 @@
                   Steinhauer, BSA 93, pp. 427-447, #3, plate 72a (Νήδ—)<hi rend="superscript">c</hi>
                </note>
                <note style="text-align: justify;">
-                  <hi rend="italic">{Grandson of Nedymos (1)?)</hi>
+                  <hi rend="italic">(Grandson of Nedymos (1)?)</hi> <!--Correction: Typo fixed '{' to '('-->
                </note>
                <note>Neikandros (2) was kasen to him<hi rend="superscript">b</hi> in the year of
                   Nike[phoros h]o [Markou]<hi rend="superscript">c</hi>
@@ -27244,7 +27242,7 @@
                <note>IG V 1. 1315</note>
                <note>Father of Eudamos (12)</note>
                <note>Grandfather of Eudamos (5)</note>
-               <note>or</note>
+               <note>or</note> <!--HUSKEY-->
                <note>Εὔδαμος Εὐδάμου Νεικαν— (= "Eudamos, son of Eudamos, victor of —")</note>
             </person>
             <person xml:id="grp-3178">
@@ -27560,9 +27558,8 @@
                <floruit>MID II AD</floruit>
                <note style="text-align: justify;">IG V 1. 59 (—ππος, cf. SEG XI 548)<hi
                      rend="superscript">a</hi>, 66<hi rend="superscript">b</hi>, 67<hi
-                     rend="superscript">c</hi>; [Steinhauer, </note>
-               <note style="text-align: justify;"> BSA 93, pp. 427-447, #8, plate 75a]<hi
-                     rend="superscript">d</hi>
+                     rend="superscript">c</hi>; [Steinhauer, BSA 93, pp. 427-447, #8, plate 75a]
+                     <hi rend="superscript">d</hi> <!--Correction: Rejoined sentence from broken note.-->
                </note>
                <note>Son of Euemeros (2)<hi rend="superscript">abc[d]</hi>
                </note>
@@ -27581,8 +27578,8 @@
                <floruit>II BC</floruit>
                <note>IG V 1. 212</note>
                <note>Son of Menekrates (2)</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of </note>
-               <note>Aristomachos (3)</note>
+               <note>Member of the cult of Poseidon of Taenarum in the year of Aristomachos (3)</note>
+               <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-3213">
                <name>Νικάσιππος (1)</name>
@@ -27764,10 +27761,9 @@
                <note style="text-align: justify;">Rizakis 153/157; IG V 1. 310<hi rend="superscript"
                      >a</hi>, <hi rend="bold">544</hi>
                   <hi rend="superscript">b</hi>, 547<hi rend="superscript">c</hi>, 549 (another
-                  copy: </note>
-               <note style="text-align: justify;">SEG XI 799)<hi rend="superscript">d</hi>, 684 (cf.
+                  copy: SEG XI 799)<hi rend="superscript">d</hi>, 684 (cf.
                   SEG XI 844<hi rend="smallcaps">b</hi>, addenda et corrigenda)<hi
-                     rend="superscript">e</hi>
+                     rend="superscript">e</hi> <!--Correction: Rejoined sentence from broken note.-->
                </note>
                <note style="text-align: justify;">Son of Philonidas (9)<hi rend="superscript"
                      >abcd</hi>
@@ -27817,8 +27813,7 @@
                <name>Νεικηφόρος (13) ὁ καὶ Νάρκισσος</name>
                <floruit>II-IV AD</floruit>
                <note>L. Robert, <hi rend="italic">Les gladiateurs dans l'orient grec</hi>, Paris,
-                  1940, page 79, </note>
-               <note>number 12</note>
+                  1940, page 79, number 12</note> <!--Correction: Rejoined sentence from broken note.-->
                <note>Son of Synetos</note>
                <note style="text-align: justify;">Lacedaemonian secutor, subject of a memorial by T.
                   Flavius Satyros (2). The gravemarker has a relief of an armed gladiator.</note>
@@ -28045,8 +28040,7 @@
             <person xml:id="grp-3269">
                <name>[Τ]ιβ(έριος) Κ{λ}(αύδιος) Νεικίας (15)</name>
                <floruit>MID II AD</floruit>
-               <note>Rizakis 307; IG V 1. 45 {9 = Κα(νίνιος)? or 9, the 9 being </note>
-               <note>9 in ligature}</note>
+               <note>Rizakis 307; IG V 1. 45 {9 = Κα(νίνιος)? or 9, the 9 being 9 in ligature}</note> <!--Correction: Rejoined sentence from broken note.-->
                <note>Syndikos in the second year of the god Lykourgos (3), AD 156/7 or 159/60</note>
                <note>Gerousias in the year of {J}u{l}(ius) Panthales (3), AD 162/3</note>
             </person>
@@ -28149,9 +28143,8 @@
                <note>SEG XI 677</note>
                <note>Daughter of Kleonikos (1)</note>
                <note style="text-align: justify;">Dedication to Demeter and Kore for Age(h)ippia
-                  (2), "eight years an </note>
-               <note style="text-align: justify;"> acolyte and the daughter of Nikippia's daughter's
-                  son</note>
+                  (2), "eight years an acolyte and the daughter of Nikippia's daughter's
+                  son</note> <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-3284">
                <name>(Αὐρηλία) Νεικιππία</name>
@@ -28166,8 +28159,8 @@
                <floruit>I\II AD</floruit>
                <note>IG V 1. 52</note>
                <note>Son of Damokles (10)</note>
-               <note>Gr(amma)toph(ylax) in the year of [C. Julius Philokleidas (3)], </note>
-               <note>AD 91/2-95/6</note>
+               <note>Gr(amma)toph(ylax) in the year of [C. Julius Philokleidas (3)], AD 91/2-95/6</note> 
+               <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-3286">
                <name>Νεικιππίδας (4)</name>
@@ -28564,8 +28557,7 @@
                <note>[Gerousias]<hi rend="superscript">b</hi>
                </note>
                <note style="text-align: justify;">Gerousias for the fourth time in the year of C.
-                  Julius Philoklidas (3)<hi rend="superscript">ac</hi>, </note>
-               <note style="text-align: justify;"> AD 91/2-95/6</note>
+                  Julius Philoklidas (3)<hi rend="superscript">ac</hi>, AD 91/2-95/6</note> <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-3335">
                <name>Νικοκλείδας (2)</name>
@@ -29244,8 +29236,8 @@
                <floruit>MID V BC</floruit>
                <note>Poralla 567; Thucydides V 36-39, 51</note>
                <note>Son of Knidis</note>
-               <note>Ephor of the year 421/20, worked to conclude an alliance with Boeotia </note>
-               <note>in 421</note>
+               <note>Ephor of the year 421/20, worked to conclude an alliance with Boeotia in 421</note>
+               <!--Correction: Rejoined sentence from broken note.-->
                <note style="text-align: justify;">In Winter 420/19 he fell as commander of Herakleia
                   in Trachis in a battle against the Thessalians.</note>
             </person>
@@ -29617,7 +29609,7 @@
                <note>IG V 1. 195</note>
                <note>Son of X— (2)</note>
                <note>Name in a catalogue</note>
-            </person>
+            </person> <!--ENd session here.-->
             <person xml:id="grp-3468">
                <name>Ξενοφῶν (3)</name>
                <floruit>I AD</floruit>

@@ -93,8 +93,8 @@
                <name>Ἀβάσκαντος (2) Παρθένιος</name>
                <floruit>REIGN OF TRAJAN</floruit>
                <note>IG V 1. 380</note>
-               <note>Epimeletes for the erection of a stele in honor of Trajan, ca. AD 115 </note>
-               <note>(cf. Eurykles, 115/6-7) </note>
+               <note>Epimeletes for the erection of a stele in honor of Trajan, ca. AD 115 
+                  (cf. Eurykles, 115/6-7) </note> <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-12">
                <name>Γ(άιος) Ἀβίδιος ἈγαθάνγελοςΓ(άιος) Ἀβίδιος ΒιάδαςἈβίδιος Σά{τ}υ{ρ}ος (1) Ἀβί(διος) Φλέγων</name> <!--Correction: Fixed formating.-->
@@ -280,7 +280,7 @@
                <note>Son of (Agathokles &lt;24&gt;)<hi rend="superscript">abcd</hi> 
                </note>
                <note>Nomo(deiktes) in the years of Nikokrates (12)<hi rend="superscript">b</hi>, AD
-                  80/1-82/3, Kleodamos <!-- Correction: removed hyphen and fixed broken line -->
+                  80/1-82/3, Kleodamos <!-- Correction: removed hyphen and fixed broken note.-->
                    (3)<hi rend="superscript">c</hi>, 83/4-85/6, and C. Ju(lius) Charixenos
                      (7)<hi rend="superscript">ad</hi>, ca. 90/1-92/3</note>
             </person>
@@ -337,7 +337,8 @@
                <name>Γάιος Ἰούλιος Ἀγαθοκλῆς (8)</name>
                <floruit>MID-LATE II AD</floruit>
                <note>Rizakis #414; IG V 1. 46<hi rend="superscript">a</hi>, 534<hi
-                     rend="superscript">b</hi>, 591<hi rend="superscript">c</hi>; SEG XI 518 (C. Julius [Agatho]kles)<hi rend="superscript">d</hi> <!--Correction: Typo, Fixed Line seperation-->
+                     rend="superscript">b</hi>, 591<hi rend="superscript">c</hi>; 
+                     SEG XI 518 (C. Julius [Agatho]kles)<hi rend="superscript">d</hi> <!--Correction: Typo, Fixed Line seperation-->
                </note>
                <note>Son of [Hi]ppothraes (2)<hi rend="superscript">b</hi>
                </note>
@@ -456,8 +457,7 @@
                <floruit>I\II AD</floruit>
                <note>Rizakis #252; IG V 1. 59 (SEG XI 521<hi rend="smallcaps">a</hi>; 521<hi
                      rend="smallcaps">b</hi>: Κλώδιος)<hi rend="superscript">a</hi>, 65<hi
-                     rend="superscript">b</hi>; SEG</note>
-               <note>XI 549<hi rend="superscript">c</hi>
+                     rend="superscript">b</hi>; SEG XI 549<hi rend="superscript">c</hi> <!--Correction: Rejoined sentence from broken note.-->
                </note>
                <note>Nomophylax in the year of Damokles (3)<hi rend="superscript">bc</hi>, ca.
                   132/3</note>

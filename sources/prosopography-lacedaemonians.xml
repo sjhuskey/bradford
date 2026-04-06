@@ -1142,7 +1142,8 @@
                <note style="text-align: justify;">Rizakis #358 (two individuals); IG V 1. 378 (error
                   of inscriber for Charixenos [6]?—a conflation of Flavius Charixenos and Julius
                   Agesilaos?)</note>
-               <note style="text-align: justify;">Dedication to the emperors and to Lacedaemon</note> <!--Correction: Put it back on one line [no note seperation]-->
+               <note style="text-align: justify;">Dedication to the emperors and to Lacedaemon</note> 
+               <!--Correction: Put it back on one line [no note seperation]-->
             </person>
             <person xml:id="grp-116">
                <name>(Ἀγησίλαος [7])</name>
@@ -1162,7 +1163,8 @@
                <floruit>I BC</floruit>
                <note>IG V 1. 210</note>
                <note>Son of Lachares (5)</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of Kallikrates (33)</note> <!--Correction: Rejoined word to sentence.-->
+               <note>Member of the cult of Poseidon of Taenarum in the year of Kallikrates (33)</note> 
+               <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-119">
                <name>Ἀγησίνικος (3)</name>
@@ -1180,8 +1182,8 @@
                <note style="text-align: justify;">Son of Soklidas (5)<hi rend="superscript">ab</hi>
                </note>
                <note style="text-align: justify;">Epimel[e]tas in the year of Damares (6)<hi
-                     rend="superscript">b</hi>; gerousias in the year of </note>
-               <note style="text-align: justify;"> Menalkid[as] (3)<hi rend="superscript">a</hi>
+                     rend="superscript">b</hi>; gerousias in the year of Menalkid[as] (3)<hi rend="superscript">a</hi>
+                     <!--Correction: Rejoined sentence from broken note.-->
                </note>
             </person>
             <person xml:id="grp-121">
@@ -1189,7 +1191,7 @@
                <floruit>I AD?</floruit>
                <note>IG V 1. 50<hi rend="smallcaps">b</hi>; SEG XI 505</note>
                <note>Son of Sokleidas (6)</note>
-               <note>[Ephor in the year of Kallikrates (33)]</note> <!--End Session Here-->
+               <note>[Ephor in the year of Kallikrates (33)]</note>
             </person>
             <person xml:id="grp-122">
                <name>Ἀγησίνικος (6)</name>
@@ -1218,13 +1220,15 @@
                <note style="text-align: justify;">Brother of Kleombrotos</note>
                <note style="text-align: justify;">When his father went into exile after the battle
                   of Haliartos in 395, Agesipolis ascended the throne<hi rend="superscript">ac</hi>.
-                  Since he was still a minor, he had a regent, Aristodemus<hi rend="superscript">d</hi>. </note> <!--Corretion: Put it back on one line [no note seperation]-->
+                  Since he was still a minor, he had a regent, Aristodemus<hi rend="superscript">d</hi>. </note> 
+                  <!--Corretion: Fixed formatting-->
                <note style="text-align: justify;">In 388/7 he led a successful campaign against the
                      Argives<hi rend="superscript">e</hi>. In 385/4 he forced Mantinea to disband
                   the league it had formed<hi rend="superscript">f</hi>. In the year 381 he invaded
                   Chalcidice with a great army, but died shortly after the capture of Torone in
                   Summer 380. </note>
-               <note style="text-align: justify;">His body was brought to Sparta<hi rend="superscript">bg</hi>.</note> <!--Correction: Reconnected the "hi rend" element-->
+               <note style="text-align: justify;">His body was brought to Sparta<hi rend="superscript">bg</hi>.</note> 
+               <!--Correction: Reconnected the "hi rend" element; Fixed formatting-->
             </person>
             <person xml:id="grp-125">
                <name>Ἀγησίπολις II</name>
@@ -1235,7 +1239,8 @@
                </note>
                <note style="text-align: justify;">Son of Kleombrotos<hi rend="superscript">a</hi>
                </note>
-               <note style="text-align: justify;">Brother of Kleomenes II<hi rend="superscript">a</hi> <!--Correction: Reconnected the "hi rend" element-->
+               <note style="text-align: justify;">Brother of Kleomenes II<hi rend="superscript">a</hi> 
+                  <!--Correction: Reconnected the "hi rend" element; Fixed formatting-->
                </note>
                <note style="text-align: justify;">Agid king<hi rend="superscript">a</hi>
                </note>
@@ -1247,7 +1252,7 @@
                <name>Ἀγησίπολις (1)</name>
                <floruit>MID-END III BC</floruit>
                <note style="text-align: justify;">Polybius IV 35.10-12; [Plutarch 
-                  <hi rend="italic">Agis</hi> 18.3]</note> <!--Correction: Reconnected the "hi rend" element-->
+                  <hi rend="italic">Agis</hi> 18.3]</note> <!--Correction: Reconnected the "hi rend" element; Fixed formatting-->
                <note style="text-align: justify;">Son of Kleombrotos (1) II and Chilonis (2)</note>
                <note style="text-align: justify;">Brother of Kleomenes (2)</note>
                <note style="text-align: justify;">Father of Agesipolis (2) III</note>
@@ -1258,12 +1263,13 @@
                <name>Ἀγησίπολις (2) III</name>
                <floruit>III\II BC</floruit>
                <note style="text-align: justify;">Polybius IV 35.10-12<hi rend="superscript">a</hi>;
-                  XXIII 6.1-2<hi rend="superscript">b</hi>; Livy XXXIV 26.14<hi rend="superscript">c</hi> <!--Correction: Reconnected the "hi rend" element-->
+                  XXIII 6.1-2<hi rend="superscript">b</hi>; Livy XXXIV 26.14<hi rend="superscript">c</hi> 
+                  <!--Correction: Reconnected the "hi rend" elementl Fixed formatting-->
                </note>
                <note style="text-align: justify;">Son of Agesipolis (1)<hi rend="superscript">a</hi>
                </note>
                <note style="text-align: justify;">Grandson of Kleombrotos (1) II
-                  <hi rend="superscript">a</hi> <!--Correction: Reconnected the "hi rend" element [Should I really be worried about these?]-->
+                  <hi rend="superscript">a</hi> <!--Correction: Reconnected the "hi rend" element; Fixed formatting-->
                </note>
                <note style="text-align: justify;">Agiad king</note>
                <note style="text-align: justify;">He was appointed king as a child after the death
@@ -1292,15 +1298,12 @@
                <name>Ἀγησιππίδας</name>
                <floruit>END V BC</floruit>
                <note style="text-align: justify;">Poralla 16; Thucydides V 52 (Ἡγησιππίδας),
-                  56</note>
-               <note style="text-align: justify;">Commandant in Heraclea. In the summer of 419 he
-                  was sent back to </note>
-               <note style="text-align: justify;">Sparta by the Boeotians, because he had mismanaged
-                  his post. </note>
-               <note style="text-align: justify;">In the following winter he led reinforcements to
-                  the aid of the </note>
-               <note style="text-align: justify;">Epidaurians who were hard pressed by the
+                  56 Commandant in Heraclea. In the summer of 419 he
+                  was sent back to Sparta by the Boeotians, because he had mismanaged
+                  his post. In the following winter he led reinforcements to
+                  the aid of the Epidaurians who were hard pressed by the
                   Argives.</note>
+                  <!--Correction: Rejoined section from broke notes.-->
             </person>
             <person xml:id="grp-131">
                <name>Ἀγησίππιος</name>

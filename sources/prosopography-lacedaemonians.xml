@@ -2745,7 +2745,7 @@
                <floruit>DIED 220 BC</floruit>
                <note>Polybius IV 22.11</note>
                <note>A Lacedaemonian murdered by the pro-Aetolian faction in Sparta </note>
-            </person>                    <!--Stop here.-->
+            </person>
             <person xml:id="grp-295">
                <name>Ἀλκαμένης (2)</name>
                <floruit>III BC</floruit>
@@ -2800,10 +2800,11 @@
                <note>[b-d.B] IG V 1. 553, 554, 555a, 555b and presumably</note>
                <note>[e] A. M.Woodward ABSA 26, 1923-25, 211-12 no. 10 with facsimile (XI
                   802)</note>
-               <note>[f] The same [?] should be postulated as father of P. Aelius Damocratidas in IG <!--I think this should be reconnected to the previous note but am unable to tell.-->
+               <note>[f] The same [?] should be postulated as father of P. Aelius Damocratidas in IG 
+                  <!--I think this should be reconnected to the previous note but am unable to tell.-->
                   V 1. 655 (emended by L. Robert, REA 31, 1929, 13-18 and supplemented with two
                   fragments by A. M. Woodward, ABSA 29, 1927-28, 41-43 no 65 with facsimile [XI
-                  831], Spawforth, ABSA 79, 1984, 273 </note>
+                  831], Spawforth, ABSA 79, 1984, 273)</note> <!--Correction: Typo, added ')'. --> <!--Stop here.-->
                <note>Remarks: Bradford distinguishes [1. 2f] [= p. 26 (2) from the Alcandridas of
                   [2a-e] [= p. 27 (6)] regarding the latter as th grandfather of the former, whom he
                   identifies with P. Aelius Alcandridas (III), son of Damocratidas, the prominent

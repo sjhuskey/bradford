@@ -1504,7 +1504,8 @@
                      >abdg</hi>
                </note>
                <note style="text-align: justify;">Gerousias for the third time in the year of C.
-                  Ju(lius) Philoklidas (3)<hi rend="superscript">ce</hi>, ca. AD 91/2-95/6</note> <!--Correction: Rejoined sentence from broken note.-->
+                  Ju(lius) Philoklidas (3)<hi rend="superscript">ce</hi>, ca. AD 91/2-95/6</note> 
+                  <!--Correction: Rejoined sentence from broken note.-->
                <note style="text-align: justify;">Gerousias for the fourth time in the year of L.
                   V[o]lusenus Aristokrates (10)<hi rend="superscript">f</hi>, ca. AD 100/1</note>
             </person>
@@ -1538,8 +1539,8 @@
                <name>Ἁγίας</name>
                <floruit>VI\V BC</floruit>
                <note style="text-align: justify;">Poralla 21; Herodotus IX 33 (the name is known in
-                  the Ionian form: </note>
-               <note style="text-align: justify;">Ἡγίης)</note>
+                  the Ionian form: Ἡγίης)</note>
+                  <!--Correction: Rejoined sentence from broken note.-->
                <note style="text-align: justify;">Son of the Elean Antiochos</note>
                <note style="text-align: justify;">Brother of the famous Elean seer Tisamenos.</note>
                <note style="text-align: justify;">Along with his brother he received Spartan
@@ -1548,7 +1549,8 @@
             <person xml:id="grp-159">
                <name>Ἁγίας</name>
                <floruit>END V BC</floruit>
-               <note>Poralla 22; Pausanias III 11. 5-6, X 9.7 (where his name is written Ἄβας)</note> <!--Correction: Formatting fix.-->
+               <note>Poralla 22; Pausanias III 11. 5-6, X 9.7 (where his name is written Ἄβας)</note> 
+               <!--Correction: Formatting fix.-->
                <note style="text-align: justify;">Son of Agelochos</note>
                <note style="text-align: justify;">He belonged to the Elean family of seers which had
                   been given citizenship in Sparta around 480. He took part in the battle of
@@ -1627,8 +1629,8 @@
             <person xml:id="grp-168">
                <name>Ἄγιππος (1b)</name>
                <floruit>MID II AD</floruit>
-               <note>IG V 1. 114<hi rend="superscript">a</hi>; SEG XI 516<hi rend="superscript"
-                     >b</hi> <!--Decide on whether these matter or not-->
+               <note>IG V 1. 114<hi rend="superscript">a</hi>; SEG XI 516
+                  <hi rend="superscript">b</hi> <!--Correction: Fixed Formatting. -->
                </note>
                <note>Son of Pollion (3)<hi rend="superscript">a</hi>
                </note>
@@ -1963,7 +1965,8 @@
                      <desc>Esigla 18</desc>
                   </graphic>), Tafel 5 (102)</note>
                <note>Name on a coin—perhaps the mint official but more likely the holder of 
-                  the eponymous office, at this date probably the eponymous patronomos</note> <!--Correction: Rejoined sentence from broken note.-->
+                  the eponymous office, at this date probably the eponymous patronomos</note> 
+                  <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-195">
                <name>[Ἀγρ]ίππας, IG V 1. 175, error for ἀλείπτας, cf. SEG XI 633</name>
@@ -2102,7 +2105,7 @@
                <floruit>VIII BC</floruit>
                <note style="text-align: justify;">Poralla 35; Strabo XIV 650; (<hi rend="italic"
                      >Etymologicum Magnum</hi> &lt;T. Gaisford, Oxford 1848&gt; s. v. [Akara—he is
-                  Cretan)</note>
+                  Cretan])</note> <!--Correction: Typo, added ']'-->
                <note style="text-align: justify;">Brother of Athymbros and Hydreios, the mythical
                   founders of Athymbrada in Asia Minor</note>
             </person>
@@ -2111,7 +2114,7 @@
                <floruit>VIII BC</floruit>
                <note style="text-align: justify;">Poralla 36; Strabo XIV 650; (<hi rend="italic"
                      >Etymologicum Magnum</hi> &lt;T. Gaisford, Oxford 1848&gt; s.v.
-                  [Akara—Athymbrados is Cretan)</note>
+                  [Akara—Athymbrados is Cretan])</note> <!--Correction: Typo, added ']'-->
                <note style="text-align: justify;">Brother of Athymbrados and Hydreios, the mythical
                   founders of three places in Caria which through a synoecismos established
                   Nysa</note>
@@ -2287,7 +2290,7 @@
                <note>Poralla 46; <hi rend="italic">Olymp</hi> 17; Africanus in Eusebius (Schoene) I
                   196. Philostratus <hi rend="italic">Gymnastikos</hi> (Jüthner 12); Pausanias V
                   8.6; Dionysius Halicarnassus VII 72 (Cf. Eustathius <hi rend="italic">Comm ad
-                     Iliadem</hi> Y 683, Pausanias I 44.1</note>
+                     Iliadem</hi> Y 683, Pausanias I 44.1)</note> <!--Correction: Typo, added ")". -->
                <note>A Spartiate who won the long distance run at Olympia, Ol. 15 = 720</note>
             </person>
             <person xml:id="grp-244">
@@ -2372,7 +2375,8 @@
                   Parthenius 23; Plutarch <hi rend="italic">Agis</hi> 3.7<hi rend="superscript"
                      >a</hi>, <hi rend="italic">Pyrrhus</hi> 26.18<hi rend="superscript">b</hi>,
                      28.4-7<hi rend="superscript">c</hi>, <hi rend="italic">Moralia</hi> (<hi
-                     rend="italic">apophthegmata Laconica</hi>) 240<hi rend="smallcaps">ef</hi>};
+                     rend="italic">apophthegmata Laconica</hi>) 240<hi rend="smallcaps">ef</hi>;
+                     <!--Correction: Typo? Removed '}'. -->
                   Pausanias III 6.6; {VIII 27.11-13, VIII 30.7 by name refers to Akrotatos (1) but
                   in fact refers to Akrotatos (2)}; SIG<hi rend="superscript">3</hi> 430<hi
                      rend="superscript">d</hi> (The editor assigns this inscription to Areus
@@ -2510,7 +2514,7 @@
                <floruit>END II AD OR LATER</floruit>
                <note>IG V 1. 468 (cf. SEG XI 784)</note>
                <note>Father of Alexand[ros] (1) </note>
-               <note>“Aris[tos]”</note>
+               <note>“Aris[tos]”</note> 
             </person>
             <person xml:id="grp-269">
                <name>Ἀλεξάνωρ (1)</name>
@@ -2575,7 +2579,8 @@
                </note>
                <note style="text-align: justify;">Presbys of nomophylakes in the year of C. Julius
                   Philoklidas (3)
-                  <hi rend="superscript">abd</hi>, AD 91/2-95/6; [gerousias]<hi rend="superscript">c</hi> <!--Correction: Rejoined sentence from broken note.-->
+                  <hi rend="superscript">abd</hi>, AD 91/2-95/6; [gerousias]<hi rend="superscript">c</hi> 
+                  <!--Correction: Rejoined sentence from broken note.-->
                </note>
             </person>
             <person xml:id="grp-276">
@@ -2740,7 +2745,7 @@
                <floruit>DIED 220 BC</floruit>
                <note>Polybius IV 22.11</note>
                <note>A Lacedaemonian murdered by the pro-Aetolian faction in Sparta </note>
-            </person>
+            </person>                    <!--Stop here.-->
             <person xml:id="grp-295">
                <name>Ἀλκαμένης (2)</name>
                <floruit>III BC</floruit>

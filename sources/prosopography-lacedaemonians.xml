@@ -3114,8 +3114,8 @@
                      >a[b]c</hi>
                </note>
                <note style="text-align: justify;">Victor of the boys’ ke[lea] in the year of N— (1)
-                  and the year of </note>
-               <note style="text-align: justify;">S........s (11)<hi rend="superscript">b</hi>
+                  and the year of S........s (11)<hi rend="superscript">b</hi>
+                  <!--Correction: Rejoined sentence from broken note.-->
                </note>
                <note style="text-align: justify;">Hierothytes in the year of Aristokratid[as] (1)<hi
                      rend="superscript">a</hi>
@@ -3342,7 +3342,8 @@
                <floruit>MID I BC</floruit>
                <note>IG V 1. 211</note>
                <note>Son of Aristonikos (4)</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of Aristokratidas (1)</note> <!--Correction: Rejoined sentence from broken hyphen.-->
+               <note>Member of the cult of Poseidon of Taenarum in the year of Aristokratidas (1)</note> 
+               <!--Correction: Rejoined sentence from broken hyphen.-->
                <note>AMMAIO[Σ], IG V 1. 40, error for [γρ]αμματόφυλαξ, see SEG XI 482</note>
             </person>
             <person xml:id="grp-348">
@@ -3641,8 +3642,8 @@
                <floruit>I\II AD</floruit>
                <note>IG V 1. 1314</note>
                <note>Son of Nikostrato[s] (7)</note>
-               <note>Ephor and worshipper of Damoea-in-Thalamae in the year of </note>
-               <note style="text-align: justify;"> Chari{x}e{n}os (8), AD 125/6 </note>
+               <note>Ephor and worshipper of Damoea-in-Thalamae in the year of
+                   Chari{x}e{n}os (8), AD 125/6 </note> <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-384">
                <name>Ἀνδρίων (2)</name>
@@ -3661,8 +3662,8 @@
                <floruit>IV\III BC</floruit>
                <note>IG V 2. 549</note>
                <note>Son of Eudamidas (17)</note>
-               <note>Victor in the men’s pentathlon at the Lycaean games (Arcadia), ca. 316</note>
-               <note>BC(?)</note>
+               <note>Victor in the men’s pentathlon at the Lycaean games (Arcadia), ca. 316 BC(?)</note>
+               <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-387">
                <name>Ἀνδρόβολος</name>
@@ -3676,7 +3677,8 @@
                <note>Poralla 91; Plutarch <hi rend="italic">Moralia</hi> (<hi rend="italic"
                      >apophthegmata Laconica</hi> s. v.) 217<hi rend="smallcaps">c</hi>
                </note>
-               <note>A Lacedaemonian of unknown time who has a saying in Plutarch about his lameness in battle</note> <!--Correction: Rojoined sentence from broken note.-->
+               <note>A Lacedaemonian of unknown time who has a saying in Plutarch about his lameness in battle</note> 
+               <!--Correction: Rojoined sentence from broken note.-->
             </person>
             <person xml:id="grp-389">
                <name>Ἀνδρόμαχος</name>
@@ -3739,8 +3741,8 @@
                <floruit>MID II AD</floruit>
                <note>IG V 1. 63</note>
                <note>Son of Xenokrates (4)</note>
-               <note>Presbys of ephors in the year of C. Julius Eudamos (6), AD 139/40-</note>
-               <note>ca. 142 </note> <!--HUSKEY- simple I do not know if this should be connect or not.-->
+               <note>Presbys of ephors in the year of C. Julius Eudamos (6), AD 139/40-ca. 142 </note> 
+               <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-398">
                <name>[Ἀ]νδρόν[ικος] (6)</name>
@@ -3801,7 +3803,7 @@
                </note>
                <note>[Gra]mmato[phylax] in the year of Se[x. Pom]peius — (3)<hi rend="superscript"
                      >b</hi>. i.e. </note>
-               <note>[Theoxenos or Brasidas (4)?]</note>
+               <note>[Theoxenos or Brasidas (4)?]</note> <!--HUSKEY-->
                <note>Ephor in the year of Kallikrates (26)<hi rend="superscript">a</hi>, AD 151/2
                </note>
             </person>
@@ -4219,7 +4221,8 @@
                <floruit>II AD OR LATER</floruit>
                <note>Rizakis 29; IG V 1. 664</note>
                <note>[Athlothetes?] of the Greater Eurykleian games (begun in the 130’s AD 
-                  Cartledge and Spawforth, 110-11, 186: quinquennial games begun in 136/7) </note> <!--Correction: Rejoined sentence from broken line X2.-->
+                  Cartledge and Spawforth, 110-11, 186: quinquennial games begun in 136/7) </note> 
+                  <!--Correction: Rejoined sentence from broken line X2.-->
             </person>
             <person xml:id="grp-460">
                <name>(Ἀντώνιος) Ἀρτέμας (2)Γά(ιος) Ἀντώνιος Βικτωρεινός M(ᾶρκος) Ἀντ(ώνιος) E— (=
@@ -4318,7 +4321,8 @@
                <name>Γά(ιος) Ἰού(λιος) Ἀπολλ—</name>
                <floruit>AD 221-222</floruit>
                <note>SEG XXXIV 309</note>
-               <note>One of the dedicants of statues to the emperor Severus and family, perhaps a gerousian </note> <!--Correction: Rejoined sentence from broken line.-->
+               <note>One of the dedicants of statues to the emperor Severus and family, perhaps a gerousian </note> 
+               <!--Correction: Rejoined sentence from broken line.-->
             </person>
             <person xml:id="grp-475">
                <name>Ἀπ[ολλ]ο—</name>
@@ -4548,7 +4552,8 @@
                <floruit>I BC</floruit>
                <note>IG V 1. 211</note>
                <note>Son of Dexikrates</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of Aristokratidas (1) </note> <!--Correction: Rejoined sentence from broken hyphen.-->
+               <note>Member of the cult of Poseidon of Taenarum in the year of Aristokratidas (1) </note> 
+               <!--Correction: Rejoined sentence from broken hyphen.-->
             </person>
             <person xml:id="grp-504">
                <name>Ἄρατος (2)</name>
@@ -4571,7 +4576,7 @@
                <floruit>IV-III BC</floruit>
                <note>SEG XI 668</note>
                <note>Dedication to Athena </note>
-            </person>
+            </person> <!--End Recheck here-->
             <person xml:id="grp-507">
                <name>[Ἀ-- or Πε]ργενίδας</name>
                <floruit>II BC</floruit>

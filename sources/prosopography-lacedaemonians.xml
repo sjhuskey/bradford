@@ -4620,7 +4620,7 @@
                <floruit>LATER VII BC</floruit>
                <note>Poralla 111; Diels <hi rend="italic">Hermes</hi> 31, 361; Bergk <hi
                      rend="italic">Poetae Lyrici Graeci</hi> III p 43 </note>
-               <note>(Ἐράτα)</note>
+               <note>(Ἐράτα)</note> <!--HUSKEY-->
                <note>Singer in Alcman's <hi rend="italic">Parthenion</hi>
                </note>
             </person>
@@ -4681,8 +4681,8 @@
                      >apophthegmata Laconica</hi> s. v.) 217<hi rend="smallcaps">f</hi>
                </note>
                <note style="text-align: justify;">A Laconian who made a remark on an epigram about
-                  the tyranny in Selinus (i.e., time of Dorieus’ expedition {?},
-                  see Euryleon 327)</note> <!--Correction: Rejoined sentence from broken note.-->
+                  the tyranny in Selinus (i.e., time of Dorieus’ expedition {?}, see Euryleon 327)</note> 
+                  <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-521">
                <name>Ἄρευς</name>
@@ -4690,9 +4690,8 @@
                <note style="text-align: justify;">Poralla 113; Antoninus Liberalis 12 = Pausanias
                   III 13.8 Areios</note>
                <note style="text-align: justify;">Laconian poet of unknown time (but PW Supplement I
-                  127: </note>
-               <note style="text-align: justify;"> “Areios” is probably <hi rend="italic"
-                     >Asinos</hi> (of Samos), not <hi rend="italic">Areus</hi>)</note>
+                  127: “Areios” is probably <hi rend="italic" 
+                     >Asinos</hi> (of Samos), not <hi rend="italic">Areus</hi>)</note> <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-522">
                <name>Ἄρευς (1) I</name>
@@ -5610,7 +5609,7 @@
                   present its case in a dispute with Dorieus about the votes in the Amphictyonic
                   council</note>
             </person>
-            <person xml:id="grp-634">
+            <person xml:id="grp-634"> <!--Mark.-->
                <name>Ἀριστοκλῆς (11)</name>
                <floruit>I BC\I AD</floruit>
                <note>IG V 1. 48</note>

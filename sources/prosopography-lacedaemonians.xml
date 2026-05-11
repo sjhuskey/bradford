@@ -5609,7 +5609,7 @@
                   present its case in a dispute with Dorieus about the votes in the Amphictyonic
                   council</note>
             </person>
-            <person xml:id="grp-634"> <!--Mark.-->
+            <person xml:id="grp-634"> 
                <name>Ἀριστοκλῆς (11)</name>
                <floruit>I BC\I AD</floruit>
                <note>IG V 1. 48</note>
@@ -5868,7 +5868,7 @@
                      rend="superscript">d</hi>
                </note>
                <note>{Son of Damares</note>
-               <note>Father of L. Volusenus Damares}</note>
+               <note>Father of L. Volusenus Damares}</note> <!--HUSKEY-->
                <note>Eponymous patronomos<hi rend="superscript">abcd</hi>, AD 100/1</note>
             </person>
             <person xml:id="grp-669">
@@ -7117,8 +7117,8 @@
                <note>SEG XI 412</note>
                <note>Father of Polyphantos, a [La]cedaemonian</note>
                <note>Ἄρκεσος, Poralla 141a; Plutarch <hi rend="italic">Moralia</hi> (<hi
-                     rend="italic">de genio Socratis</hi>) 598<hi rend="smallcaps">f</hi>, cf. </note>
-               <note>Ἄρκισσος</note>
+                     rend="italic">de genio Socratis</hi>) 598<hi rend="smallcaps">f</hi>, cf. Ἄρκισσος</note>
+                     <!--Correction: Rejoined sentence with broken note.-->
             </person>
             <person xml:id="grp-819">
                <name>Ἄρκισσος</name>
@@ -7142,8 +7142,8 @@
                <floruit>III\II BC</floruit>
                <note style="text-align: justify;">Livy XXXIV 52.9<hi rend="superscript">a</hi>;
                   Polybius XXI 3.4<hi rend="superscript">b</hi>; <hi rend="italic">de viris
-                     illustribus</hi> 51<hi rend="superscript">c</hi>; Eutropius </note>
-               <note style="text-align: justify;">IV 2.3<hi rend="superscript">d</hi>
+                     illustribus</hi> 51<hi rend="superscript">c</hi>; Eutropius IV 2.3<hi rend="superscript">d</hi>
+                     <!--Correction: Rejoined sentence from broken note.-->
                </note>
                <note style="text-align: justify;">Son of Nabis<hi rend="superscript">ad</hi>
                </note>
@@ -7225,9 +7225,8 @@
                      rend="superscript">a</hi>
                </note>
                <note style="text-align: justify;">(Aemilius Juncus was the legatus propraetore in
-                  Achaea, AD 128/9, cf. </note>
-               <note style="text-align: justify;">IG II/III<hi rend="superscript">2</hi> 4210, see
-                  also Rizakis 20, AD 127-137.)</note>
+                  Achaea, AD 128/9, cf. IG II/III<hi rend="superscript">2</hi> 4210, see
+                  also Rizakis 20, AD 127-137.)</note> <!--Correction: Rejoined sentence from broken note.-->
                <note style="text-align: justify;">Gerousias<hi rend="superscript">b</hi>
                </note>
             </person>
@@ -7307,8 +7306,8 @@
             <person xml:id="grp-837">
                <name>Αὐρήλιος Ἀρτέμων</name>
                <floruit>II/III AD</floruit>
-               <note>Papaëfthimiou <hi rend="italic">Grabreliefs</hi> 15, 20. 44, 46-47, 54-55, </note>
-               <note>63-69 text on pp. 146-48 ph fig 20</note>
+               <note>Papaëfthimiou <hi rend="italic">Grabreliefs</hi> 15, 20. 44, 46-47, 54-55, 
+                  63-69 text on pp. 146-48 ph fig 20</note> <!--Correction: Rejoined sentence from broken note.-->
                <note>Grave marker “against the Persians” at the age of 20, ca. 217</note>
             </person>
             <person xml:id="grp-838">
@@ -7537,7 +7536,7 @@
                   in the year 431 and 430<hi rend="superscript">klm</hi>. In 429 he took Plataea and
                   in the next year led an army into Attica for the third time.<hi rend="superscript"
                      >no</hi>
-               </note>
+               </note> <!--Mark here.-->
                <note style="text-align: justify;">He became sick and died at the latest in the
                   Winter 427/6.</note>
             </person>

@@ -7536,7 +7536,7 @@
                   in the year 431 and 430<hi rend="superscript">klm</hi>. In 429 he took Plataea and
                   in the next year led an army into Attica for the third time.<hi rend="superscript"
                      >no</hi>
-               </note> <!--Mark here.-->
+               </note>
                <note style="text-align: justify;">He became sick and died at the latest in the
                   Winter 427/6.</note>
             </person>
@@ -8084,8 +8084,9 @@
             <person xml:id="grp-924">
                <name>[Λού]κιος Αὐρ[ήλιος] (7)</name>
                <floruit>AFTER AD 160</floruit>
-               <note style="text-align: justify;">Rizakis 73; IG V 1. 532 (9 with a slash—sign of
-                  abbreviation—over the kappa = C. Ju(lius) Aur[elius or –elianus}?)</note>
+               <note style="text-align: justify;">Rizakis 73; IG V 1. 532 
+                  (9 with a slash—sign of abbreviation—over the kappa = C. Ju(lius) Aur[elius or –elianus]?)</note> 
+                  <!--Correction: Typo, changed } to ] and format adjustment.-->
                <note style="text-align: justify;">With others paid for a memorial</note>
                <note style="text-align: justify;">[Presby]s of nomophylakes and
                   [axi]ologotat(o)s</note>
@@ -8275,7 +8276,8 @@
                <floruit>II-I BC</floruit>
                <note>IG V 1. 975</note>
                <note>[Lacedaemonian?]</note>
-               <note>Subject of an honorary decree erected in the shrine of Apollo Hyperteleatas</note> <!--Correction: Fixed formatting.-->
+               <note>Subject of an honorary decree erected in the shrine of Apollo Hyperteleatas</note> 
+               <!--Correction: Fixed formatting.-->
             </person>
             <person xml:id="grp-946">
                <name>[Ἀφθό]νητος (4)</name>
@@ -8449,8 +8451,8 @@
             <person xml:id="grp-969">
                <name>T(ιβέριος) Κλα(ύδιος) Βακχύλος (1)</name>
                <floruit/>
-               <note>Rizakis 273 (second quarter, II AD); IG V 1. 118 (cf. SEG XI 589)—</note>
-               <note>[Βακ]χύλος; SEG XI 578</note>
+               <note>Rizakis 273 (second quarter, II AD); IG V 1. 118 (cf. SEG XI 589) [Βακ]χύλος; SEG XI 578</note>
+               <!--Correction: Rejoined sentence from broken note.-->
                <note>Son of (Bacchylos &lt;2&gt;)</note>
                <note>Gerousias twice</note>
             </person>
@@ -8486,7 +8488,7 @@
                <floruit>II\III AD</floruit>
                <note>Rizakis 105 (ca. AD 217, son of E…..
                <hi rend="italic">ca. 13</hi>…..?); IG V 1. 130</note> <!--Correction: Fixed formatting.-->
-               <note>[Agora]nomos in the year of the god Lykour[gos] (3) —, 
+               <note>[Agora]nomos in the year of the god Lykour[gos] (3), 
                no earlier than AD 211-217</note> <!--Correction: Rejoined a sentence from broken note.-->
             </person>
             <person xml:id="grp-976">
@@ -8498,8 +8500,7 @@
                <floruit>II BC</floruit>
                <note style="text-align: justify;">
                   <hi rend="italic">Papyrus grecs et démotiques</hi>, ed. Théodore Reinach, Paris,
-                  1905, 15, I 29; </note>
-               <note style="text-align: justify;">16, II 36-37; 20, I 35; 23, I 27</note>
+                  1905, 15, I 29; 16, II 36-37; 20, I 35; 23, I 27</note> <!--Correction: Rejoined a sentence from broken note.-->
                <note>Father of Agenor, a Lacedaemonian</note>
             </person>
             <person xml:id="grp-978">
@@ -8557,7 +8558,7 @@
                <note>Eponymous patronomos, ca. AD 153/4</note>
                <note>IG V. 1. 88: —ΟΦΙΛΑΚΕΣ —ΔΕΟΥ ΒΙΑ— </note>
                <note>Kolbe: [νομ]οφύλακες [ἐπὶ] —δέου Βιά[δα]</note>
-               <note>SEG XI 553: [νομ]οφύλακες [ἐπὶ Ἀβι]δ{ί}ου Βιά[δα]</note>
+               <note>SEG XI 553: [νομ]οφύλακες [ἐπὶ Ἀβι]δ{ί}ου Βιά[δα]</note> <!--HUSKEY-->
             </person>
             <person xml:id="grp-987">
                <name>Γά(ιος) Ρούβριος Βιάνωρ</name>
@@ -8589,7 +8590,8 @@
                <floruit>I BC</floruit>
                <note>IG V 1. 210</note>
                <note>Son of Beidippos (2)</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of Kallikrates (33)</note> <!--Correction: Rejoined sentence from broken note.-->
+               <note>Member of the cult of Poseidon of Taenarum in the year of Kallikrates (33)</note> 
+               <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-991">
                <name>Βείδιππος (2)</name>
@@ -8629,7 +8631,8 @@
                <floruit>I BC</floruit>
                <note>IG V 1. 210</note>
                <note>Son of Nikandros (9)</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of Kallikrates (33)</note> <!--Correction: Rejoined sentence from broken note.-->
+               <note>Member of the cult of Poseidon of Taenarum in the year of Kallikrates (33)</note> 
+               <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-996">
                <name>[Βι]όλας (2), see [Νε]όλας (8)</name>
@@ -8641,7 +8644,7 @@
                <note>IG V 1. 1314</note>
                <note style="text-align: justify;">Hype(retes) and worshipper of Damoea-in-Thalamae
                   in the year of Chari{x}e{n}os (8), AD 125/6-127/8</note>
-            </person>
+            </person> <!--Mark Here.-->
             <person xml:id="grp-998">
                <name>Βιτέλλιος, see Οὐιτέλλιος</name>
                <floruit/>

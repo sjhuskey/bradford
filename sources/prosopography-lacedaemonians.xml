@@ -8644,7 +8644,7 @@
                <note>IG V 1. 1314</note>
                <note style="text-align: justify;">Hype(retes) and worshipper of Damoea-in-Thalamae
                   in the year of Chari{x}e{n}os (8), AD 125/6-127/8</note>
-            </person> <!--Mark Here.-->
+            </person> 
             <person xml:id="grp-998">
                <name>Βιτέλλιος, see Οὐιτέλλιος</name>
                <floruit/>
@@ -8672,8 +8672,8 @@
                <name>Βοιώτιος (1)</name>
                <floruit>END V BC</floruit>
                <note>Poralla 175; Xenophon <hi rend="italic">Hellenica</hi> I 4.2</note>
-               <note>In the Winter of 409/8 he was one of the Lacedaemonian ambassadors to </note>
-               <note>the Persian king.</note>
+               <note>In the Winter of 409/8 he was one of the Lacedaemonian ambassadors to the Persian king.</note>
+               <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-1003">
                <name>Γάιος Ιούλιος Βοιώτιος (2)</name>
@@ -8861,8 +8861,8 @@
                <floruit>I BC</floruit>
                <note style="text-align: justify;">M. B. Hatzopoulos and Louisa D. Loukopoulou, <hi
                      rend="italic">Recherches sur les Marches Orientales des Temenides (Anthemonte -
-                     Kalindoia)</hi>, Ière Partie, Meletemata, Athens 1992, p. 53-54, pl.
-                  xiii-xiv</note>
+                     Kalindoia)</hi>, Ière Partie, Meletemata, Athens 1992, p. 53-54, pl. xiii-xiv</note>
+                     <!--Correction: Fixed formatting-->
                <note>Father of Lykourgos</note>
             </person>
             <person xml:id="grp-1013">
@@ -9008,7 +9008,7 @@
                <floruit/>
             </person>
             <person xml:id="grp-1033">
-               <name>(Γ—, Π—, or F)9—</name>
+               <name>(Γ—, Π—, or F)ENATA—</name> <!--Correction: Typo? changed "9" to "ENATA" as in the document-->
                <floruit/>
                <note>IG V 1. 1574 (retrograde)</note>
                <note>Name on a vase, Amyclae</note>
@@ -9243,8 +9243,8 @@
                <floruit>I BC</floruit>
                <note>IG V 1. 212</note>
                <note>Son of Gorgion (3)</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of </note>
-               <note>Aristomachos (3)</note>
+               <note>Member of the cult of Poseidon of Taenarum in the year of Aristomachos (3)</note>
+               <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-1064">
                <name>Γ[όρ]γιππος (2)</name>
@@ -9492,7 +9492,8 @@
                <floruit>END I AD</floruit>
                <note>Rizakis 373; IG V 1. 97; SEG XI 564</note>
                <note>Son of Gra[nio]s (2)</note>
-               <note>Gerousias for the third time in the year of C. Julius Philoklidas (3), 91/2-95/6</note> <!--Correction: Rejoined sentence from broken note.-->
+               <note>Gerousias for the third time in the year of C. Julius Philoklidas (3), 91/2-95/6</note>
+               <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-1094">
                <name>Γρά[νιο]ς (2)</name>
@@ -9794,7 +9795,7 @@
                <note>IG V 1. 744</note>
                <note>Parent of Sokratidas (2)</note>
                <note>Gravemarker</note>
-            </person>
+            </person> <!--Mark Here.-->
             <person xml:id="grp-1129">
                <name>Δαμ— (2)</name>
                <floruit>II/ I BC</floruit>

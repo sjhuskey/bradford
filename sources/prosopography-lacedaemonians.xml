@@ -9795,7 +9795,7 @@
                <note>IG V 1. 744</note>
                <note>Parent of Sokratidas (2)</note>
                <note>Gravemarker</note>
-            </person> <!--Mark Here.-->
+            </person> 
             <person xml:id="grp-1129">
                <name>Δαμ— (2)</name>
                <floruit>II/ I BC</floruit>
@@ -9849,7 +9849,8 @@
                <floruit>END V BC</floruit>
                <note>Poralla 207; Thucydides V 19, 24.</note>
                <note>Ephor of the year 422/21</note>
-               <note>In this office he swore to the peace of Nicias and the alliance with Athens.</note> <!--Correction: Fixed formatting.-->
+               <note>In this office he swore to the peace of Nicias and the alliance with Athens.</note> 
+               <!--Correction: Fixed formatting.-->
                <note>(Perhaps a descendant of Chilon the Wise)</note>
             </person>
             <person xml:id="grp-1137">
@@ -9857,7 +9858,8 @@
                <floruit>I BC</floruit>
                <note>IG V 1. 211</note>
                <note>Son of Timokrate[s] (13)</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of Aristokratidas (1)</note> <!--Correction: Fixed formatting.-->
+               <note>Member of the cult of Poseidon of Taenarum in the year of Aristokratidas (1)</note> 
+               <!--Correction: Fixed formatting.-->
             </person>
             <person xml:id="grp-1138">
                <name>Δαμαγόρα</name>
@@ -9930,8 +9932,7 @@
                <note>
                   <hi style="font-family:TeubnerVerticalU" xml:space="preserve">Rizakis 621; E. Kourinou-Pikoula </hi>
                   <hi rend="italic" style="font-family:TeubnerVerticalU">Horos</hi> 8-9, 1990-91 no.
-                  5, pl. 21 </note>
-               <note>(SEG XLI 317)</note>
+                  5, pl. 21 (SEG XLI 317)</note> <!--Correction: Rejoined sentence from broken note.-->
                <note>He assumed the duties of the eponymous patronomos Damares</note>
             </person>
             <person xml:id="grp-1146">
@@ -10059,7 +10060,8 @@
             <person xml:id="grp-1155">
                <name>Δαμάρατος</name>
                <floruit>MID IV BC</floruit>
-               <note>Poralla 211; Sextus Empiricus <hi rend="italic">adversus mathematicos</hi> I 258</note> <!--Correction: Fixed formatting.-->
+               <note>Poralla 211; Sextus Empiricus <hi rend="italic">adversus mathematicos</hi> I 258</note> 
+               <!--Correction: Fixed formatting.-->
                <note>Son of Prokles and Pythia (the daughter of the philosopher Aristotle)</note>
                <note>Brother of Prokles</note>
                <note>Descendant of the exiled king Damaratos</note>
@@ -10082,7 +10084,8 @@
                <floruit>I BC</floruit>
                <note>IG V 1. 210</note>
                <note>Son of Archon (2)</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of Kallikrates (33)</note> <!--Correction: Fixed formatting.-->
+               <note>Member of the cult of Poseidon of Taenarum in the year of Kallikrates (33)</note>
+               <!--Correction: Fixed formatting.-->
             </person>
             <person xml:id="grp-1159">
                <name>Δ[α]μάρης (3)</name>
@@ -10100,20 +10103,22 @@
                <name>Πό(πλιος) Μέμ(μιος) Δαμάρη[ς] (4)</name>
                <floruit>LATE II AD</floruit>
                <note>Rizakis 558; IG V 1. 547; SEG XI 798</note>
-               <note>Son of P. Memmius Pratolaos (4) ho kai Aristokles and Claudia Longina (1)</note> <!--Correction: Fixed formatting.-->
+               <note>Son of P. Memmius Pratolaos (4) ho kai Aristokles and Claudia Longina (1)</note>
+               <!--Correction: Fixed formatting.-->
                <note>Brother of Memmia Longina (2)</note>
-               <note>He and his parents paid for three statues to honor his brother-in-law, </note>
-               <note>Pomponius Panthales (2) Diogenes Aristeas</note>
+               <note>He and his parents paid for three statues to honor his brother-in-law, Pomponius Panthales (2) Diogenes Aristeas</note>
+               <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-1161">
                <name>Πό(πλιος) Μέμμιος Δαμάρης (5)</name>
                <floruit>MID II AD</floruit>
-               <note>Rizakis 557/9 (discussion and suggested identifications with other</note>
-               <note>individuals); IG V 1. 38<hi rend="superscript">a</hi>, 63<hi rend="superscript"
+               <note>Rizakis 557/9 (discussion and suggested identifications with otherindividuals); 
+                  IG V 1. 38<hi rend="superscript">a</hi>, 63<hi rend="superscript" 
                      >b</hi>, 68<hi rend="superscript">c</hi>, <hi rend="bold">536</hi>
                   <hi rend="superscript">d</hi>, 1314<hi rend="superscript">e</hi>; SEG XI 497<hi
                      rend="superscript">f</hi>, 585<hi rend="superscript">g</hi>
-               </note>
+               </note> 
+               <!--Correction: Rejoined sentence from broken note.-->
                <note>Son of P. Memmius Sidektas (2)<hi rend="superscript">d</hi>
                </note>
                <note>Neon (1) was s[yn]ephebe to him<hi rend="superscript">a</hi>
@@ -10598,7 +10603,8 @@
                <floruit>I BC</floruit>
                <note>IG V 1. 210</note>
                <note>Son of Euameridas</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of Kallikrates (33)</note> <!--Correction: Fixed formatting.-->
+               <note>Member of the cult of Poseidon of Taenarum in the year of Kallikrates (33)</note>
+               <!--Correction: Fixed formatting.-->
             </person>
             <person xml:id="grp-1221">
                <name>Δάμιππος (6)</name>
@@ -10701,9 +10707,9 @@
                <name>Δαμίων (3)</name>
                <floruit>I/II AD</floruit>
                <note>IG V 1. 281</note>
-               <note>Son of Anthestius Philokrates (6) {Rizakis 26—and therefore should be </note>
-               <note>Anthestius Damion or was he, perhaps, born after the father had been </note>
-               <note>granted Roman citizenship?}</note>
+               <note>Son of Anthestius Philokrates (6) {Rizakis 26—and therefore should be 
+                  Anthestius Damion or was he, perhaps, born after the father had been granted Roman citizenship?}</note>
+                  <!--Correction: Rejoined sentence from broken note. X2-->
                <note>Kas(en) to Agis (4)</note>
                <note>Victor of the boys' keloia in the year of Lakon (3); mik[i]chizomenos</note>
                <note>Dedication to Artemis Ortheia</note>
@@ -10718,7 +10724,8 @@
                <name>Δαμίων (5</name>
                <floruit>LATE II AD?</floruit>
                <note>IG V 1. 159</note>
-               <note>Name in a catalogue of [ephebes?}, ca. 190-200</note>
+               <note>Name in a catalogue of [ephebes?], ca. 190-200</note>
+               <!--Correction: Typo, changed "}" to "]"-->
             </person>
             <person xml:id="grp-1236">
                <name>Δαμίων (6)</name>
@@ -10798,7 +10805,7 @@
                </note>
                <note>Dedication to Demeter and Kore for his wife<hi rend="superscript">c</hi>
                </note>
-            </person>
+            </person> <!--Mark Here.-->
             <person xml:id="grp-1245">
                <name>Δαμοκλῆς (2) ὁ καὶ Φιλοκράτης</name>
                <floruit>REIGN OF TRAJAN</floruit>

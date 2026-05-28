@@ -14926,7 +14926,7 @@
                   Plutarch <hi rend="italic">Agesilaus</hi> 25</note>
                <note>Friend of king Agesilaos II.</note>
                <note>He was twice, 378 and Winter 370/69, occupied as an envoy to Athens</note>
-            </person> <!--Mark Here.-->
+            </person> 
             <person xml:id="grp-1751">
                <name>Ἐτυμ[οκλῆς] (3)</name>
                <floruit>IV-III BC</floruit>
@@ -15810,8 +15810,9 @@
             <person xml:id="grp-1865">
                <name>Πό(πλιος) Μέμ(μιος) Εὔδαμος</name>
                <floruit>REIGN OF ANTONINUS PIUS</floruit>
-               <note>Rizakis 562 (Reign of Marcus Aurelius/L. Verus; Stemmata VI, VII); </note>
-               <note>Steinhauer, BSA 93, pp. 427-447, #4, plate 72b</note>
+               <note>Rizakis 562 (Reign of Marcus Aurelius/L. Verus; Stemmata VI, VII); 
+                  Steinhauer, BSA 93, pp. 427-447, #4, plate 72b</note>
+                  <!--Correction: Rejoined sentence from broken note.-->
                <note>Eponymous patronomos </note>
             </person>
             <person xml:id="grp-1866">
@@ -16198,9 +16199,11 @@
             <person xml:id="grp-1919">
                <name>ΕΥΘ</name>
                <floruit>I AD</floruit>
-               <note>IG V 1. 1314 (no letters lost after 9)</note>
+               <note>IG V 1. 1314 (no letters lost after ΕΥΘ)</note>
+               <!--Correction: Typo, changed "9" to "ΕΥΘ" as written in document.-->
                <note>Father of Arion (4), a Spartiate [from] Taenar[um]
-                  <hi rend="italic">or</hi> the abbreviation of an epithet</note> <!--Correction: Rejoined sentence from broken note.-->
+                  <hi rend="italic">or</hi> the abbreviation of an epithet</note>
+                  <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-1920">
                <name>Εὔθρεισο[ς]</name>
@@ -16270,7 +16273,8 @@
                <name>Εὐθυμοκλῆς</name>
                <floruit>I\II AD</floruit>
                <note>IG V 1. 197 ([Εὐ]θυμοκ[λὴς Ἀμα]ράν[του], cf. SEG XI 596)<hi rend="superscript"
-                     >a</hi>, 1314<hi rend="superscript">b</hi>, 1315<hi rend="superscript">c</hi> <!--Correction: Rejoined sentence from broken note.-->
+                     >a</hi>, 1314<hi rend="superscript">b</hi>, 1315<hi rend="superscript">c</hi>
+                     <!--Correction: Rejoined sentence from broken note.-->
                </note>
                <note>Son of Amarant[os] (3)<hi rend="superscript">ac</hi>
                </note>
@@ -16325,7 +16329,7 @@
                <floruit>I\II AD</floruit>
                <note>IG V 1. 1315</note>
                <note>Son of Chid—</note>
-               <note>Bidyos in the year of Eurykles (2), AD 116/7</note> <!--End Session Here.-->
+               <note>Bidyos in the year of Eurykles (2), AD 116/7</note>
             </person>
             <person xml:id="grp-1937">
                <name>Μᾶρ(κος) Αὐρ(ήλιος) Εὔκαρπος (2)</name>
@@ -16756,8 +16760,9 @@
                      >Agesilaus</hi> 1, 21; Pausanias III 15.1, 9.3; Xenophon <hi rend="italic"
                      >Agesilaus</hi> 9.6, <hi rend="italic">Hellenica</hi> IV 4.19; (<hi
                      rend="italic">Anthologia Palatina</hi> VII 426)</note>
-               <note style="text-align: justify;">Daughter of Melesippidas. Second wife of king <!--Correction: Typo, fixed capitalization of 'Second'-->
+               <note style="text-align: justify;">Daughter of Melesippidas, second wife of king 
                   Archidamos II</note>
+                  <!--Correction: Typo, changed "." to ","-->
                <note style="text-align: justify;">Mother of king Agesilaos II and Kyniska</note>
                <note style="text-align: justify;">Her second son Teleutias perhaps comes from a
                   second marriage, since she appears after the death of Archidamos to have married
@@ -16888,9 +16893,10 @@
                <floruit>MID III BC</floruit>
                <note style="text-align: justify;">Pausanias II 9.1, III 10.5 (Pausanias may have
                   derived this name from a confusion with Eudamidas II, in which case the name of
-                  the son of Agis IV would not be known); { Plutarch <hi rend="italic"
+                  the son of Agis IV would not be known); {Plutarch <hi rend="italic"
                      >Cleomenes</hi> 1.1}; B. Niese, “Eurydamidas,” RE, XI Halbband (Stuttgart,
                   1907), 1322</note>
+                  <!--Correction: Typo, removed unnecessary space.-->
                <note style="text-align: justify;">Son of Agis (1) IV and Agiatis</note>
                <note style="text-align: justify;">Grandson of Eudamidas (2) II</note>
                <note style="text-align: justify;">Eurypontid king</note>
@@ -17246,7 +17252,8 @@
             <person xml:id="grp-2037">
                <name>Αὐρ(ήλιος) Εὐ[τυχ]ᾶς (2)</name>
                <floruit>AFTER AD 160</floruit>
-               <note>Rizakis 137 (Woodward: Εὐ[ικτ]ᾶς?; SEG XI 633 (IG V 1. 172-175 joined)</note> <!--Correction: Rejoined sentence from broken note.-->
+               <note>Rizakis 137 (Woodward: Εὐ[ικτ]ᾶς?; SEG XI 633 (IG V 1. 172-175 joined)</note>
+               <!--Correction: Rejoined sentence from broken note.-->
                <note>Name in a catalogue of athletes</note>
             </person>
             <person xml:id="grp-2038">
@@ -17303,7 +17310,8 @@
                <name>Αὐρ(ήλιος) Εὐτυχιανός</name>
                <floruit>II/III AD</floruit>
                <note>Rizakis 140; Papaëfthimiou <hi rend="italic">Grabreliefs</hi> 15, 20. 44,
-                  46-47, 54-55, 63-69 text on pp. 146-48 ph fig 20 </note> <!--Correction: Rejoined sentence from broken note.-->
+                  46-47, 54-55, 63-69 text on pp. 146-48 ph fig 20 </note>
+                  <!--Correction: Rejoined sentence from broken note.-->
                <note>Son of [Ona]sion</note>
                <note>Grave marker “against the Persians” at the age of 20, ca. 217</note>
             </person>
@@ -17399,9 +17407,10 @@
                <note>Rizakis 555; IG V 1. 538</note>
                <note>Son of (Eutychos&lt;20&gt;)</note>
                <note>[Epi]meletes in charge of the benefaction of the city towards —us
-                  Paulinus</note>
-               <note>(and the repair of the bridge, funded by Paulinus) </note>
-               <note>{= Eutychos (11)?}</note> <!--Correction: Typo, added a '('-->
+                  Paulinus (and the repair of the bridge, funded by Paulinus) </note>
+                  <!--Correction: Rejoined sentence from broken note.-->
+               <note>{= Eutychos (11)?}</note>
+               <!--Correction: Typo, added a '('-->
             </person>
             <person xml:id="grp-2057">
                <name>[Εὔτυχ]ος</name>
@@ -17574,7 +17583,8 @@
                <note>Lacedaemonian</note>
                <note>Gravemarker: “Farewell, Chen”</note>
                <note>(Chen: Stephanus Byzantius <hi rend="italic">Ethnika</hi>, s. v.—a polis in
-                  Laconia</note>
+                  Laconia)</note>
+                  <!--Correction: Typo, added ")".-->
                <note>ΕΧΑ—, see E{ὐ}α—</note>
             </person>
             <person xml:id="grp-2083">
@@ -17629,8 +17639,8 @@
          <listPerson xml:id="digamma">
             <head>—Ϝ—</head>
             <person xml:id="grp-2089a">
-               <name>Ϝαναξίβιος</name>
-               <note>, IG V 1. 215, see Ἀναξίβιος</note>
+               <note>Ϝαναξίβιος, IG V 1. 215, see Ἀναξίβιος</note>
+               <!--Correction: Rejoined sentence from broken note & changed "<name>" to "<note>".-->
             </person>
             <person xml:id="grp-2089">
                <name>Ϝαστία</name>
@@ -17737,8 +17747,8 @@
                <note>Son of Tyndares (4)<hi rend="superscript">abcde</hi>
                   <hi rend="italic">—This is the Tyndares mentioned by Plutarch</hi>
                </note>
-               <note>Nomophylax in the year of — on (Fragment 127), ca. AD 147<hi rend="superscript"
-                     >bd</hi> <!--Correction: Typo, added space bewteen the hyphen and 'on'.-->
+               <note>Nomophylax in the year of —on (Fragment 127), ca. AD 147<hi rend="superscript"
+                     >bd</hi> 
                </note>
                <note>[Bidyos? in the year of L. Vol]us[enus Aristokrat]es<hi rend="superscript"
                      >a</hi>, ca. 150/1</note>
@@ -17893,7 +17903,8 @@
                <floruit>II AD</floruit>
                <note>IG V 1. 541</note>
                <note>Father of M. Aur(elius) Paramonos (1)</note>
-               <note>9, see Ἡρακ{λ}ίδας (1)</note>
+               <note>ΗΡΑΚΑΙΔΑΣ, see Ἡρακ{λ}ίδας (1)</note>
+               <!--Correction: Typo, changed "9" to "ΗΡΑΚΑΙΔΑΣ" as written in document.-->
             </person>
             <person xml:id="grp-2120">
                <name>Ἡρακλ—</name>
@@ -17979,7 +17990,7 @@
                <floruit>I BC</floruit>
                <note>IG V 1. 94</note>
                <note>Father of Pasiteles (2)</note>
-            </person>
+            </person> <!--Mark Here.-->
             <person xml:id="grp-2133">
                <name>Ἡριππίδας</name>
                <floruit>V\IV BC</floruit>

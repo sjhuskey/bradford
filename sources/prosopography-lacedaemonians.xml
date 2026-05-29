@@ -17990,7 +17990,7 @@
                <floruit>I BC</floruit>
                <note>IG V 1. 94</note>
                <note>Father of Pasiteles (2)</note>
-            </person> <!--Mark Here.-->
+            </person> 
             <person xml:id="grp-2133">
                <name>Ἡριππίδας</name>
                <floruit>V\IV BC</floruit>
@@ -18121,7 +18121,8 @@
                <floruit>I BC</floruit>
                <note>Rizakis 535 9(9); IG V 1. 96
                   {<hi xml:space="preserve">MAI, “I” = sign of abbreviation, </hi>
-               Μᾶ(ρκος)? or Μ(ᾶρκος) Αἴ(λιος), e.g, Μ(ᾶρκος) Αἴλιος Λεόντας (3) }</note> <!--Correction: Rejoined sentence from broken note.-->
+               Μᾶ(ρκος)? or Μ(ᾶρκος) Αἴ(λιος), e.g, Μ(ᾶρκος) Αἴλιος Λεόντας (3) }</note>
+               <!--Correction: Rejoined sentence from broken note.-->
                <note>[Gerousias or member of the cult of Poseidon of Taenarum]</note>
             </person>
             <person xml:id="grp-2148">
@@ -18635,13 +18636,14 @@
             <person xml:id="grp-2208">
                <name>Γά(ιος) Ἰούλιος Θεόφραστος</name>
                <floruit>I\II AD</floruit>
-               <note>Rizakis 510 (with bibliography and discussion); IG V 1. 157 (cf. SEG XI</note>
-               <note>522)<hi rend="superscript">a</hi>, 167 (cf. SEG XI 623)<hi rend="superscript"
+               <note>Rizakis 510 (with bibliography and discussion); IG V 1. 157 (cf. SEG XI 522)
+                  <hi rend="superscript">a</hi>, 167 (cf. SEG XI 623)<hi rend="superscript"
                      >b</hi>, 506<hi rend="superscript">c</hi>; SEG II 62<hi rend="superscript"
                      >d</hi>; SEG XI <hi rend="bold">492</hi>
                   <hi rend="superscript">e</hi>, 494<hi rend="superscript">f</hi>, 496<hi
                      rend="superscript">g</hi>
                </note>
+               <!--Correction: Rejoined sentence from broken note.-->
                <note>Son of Theoklymenos<hi rend="superscript">e</hi>
                </note>
                <note>{Grandson of Klymenos}</note>
@@ -18838,8 +18840,8 @@
                <name>Θίβρων</name>
                <floruit>MID IV BC</floruit>
                <note style="text-align: justify;"> Poralla 376; Arrian in Photios 92.16-19 in
-                  Dübner's edition of Arrian </note>
-               <note style="text-align: justify;"> p 242-3; Diodorus XVII 108.8, XVIII 19-21</note>
+                  Dübner's edition of Arrian p 242-3; Diodorus XVII 108.8, XVIII 19-21</note>
+                  <!--Correction: Rejoined sentence from broken note.-->
                <note style="text-align: justify;"> The Laconian friend and commander of mercenaries
                   of Harpalos. As this one in 324/3 fled from Athens to Crete, T. murdered him and
                   took possession of his treasure. He sailed to Crete where in various battles he
@@ -19931,7 +19933,8 @@
             <person xml:id="grp-2353">
                <name>Γά(ιος) Ἰούλιος Καλ—</name>
                <floruit>I\II AD</floruit>
-               <note>Rizakis 432; IG V 1. 138 (cf SEG XI 615: rejection of "[kasen] to —tikelos")</note> <!--Correction: Rejoined sentence from broken note.-->
+               <note>Rizakis 432; IG V 1. 138 (cf SEG XI 615: rejection of "[kasen] to —tikelos")</note>
+               <!--Correction: Rejoined sentence from broken note.-->
                <note>[Kasen] to —tikelos</note>
                <note>Bideos in the year of Damo[kles] (2) ho k[ai] Philo[krates], AD 98/9</note>
             </person>
@@ -20523,7 +20526,7 @@
             </person>
             <person xml:id="grp-2425">
                <name>Καλλικράτης (35)</name>
-               <floruit/> <!--HUSKEY-->
+               <floruit/>
                <note>SEG XI 881</note>
                <note>[Erg]ones pastados</note>
             </person>
@@ -20541,7 +20544,7 @@
             </person>
             <person xml:id="grp-2428">
                <name>[Κ]αλλι[κράτης] (38)</name>
-               <floruit/> <!--HUSKEY-->
+               <floruit/> 
                <note>
                   <hi rend="italic">Orthia</hi> 352, 133</note>
                <note>[Eponymous patronomos?]</note>
@@ -21259,7 +21262,7 @@
                <floruit>I AD</floruit>
                <note>Rizakis 213; IG V 1. 1314</note>
                <note>(Worshipper of Damoea) in the year of Chari{x}e{n}os (8), AD 125/6-127/8</note> 
-               <!--Correction: Rejoined sentence from broken note + added.-->
+               <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-2530">
                <name>Κάρηνος</name>
@@ -21478,7 +21481,7 @@
                <floruit>MID II AD</floruit>
                <note>Rizakis 244; IG V 1. 108</note>
                <note>Gerousias</note>
-            </person>
+            </person> <!--Mark Here.-->
             <person xml:id="grp-2559">
                <name>Τιβ(έριος) Κλαύδιος — (6)</name>
                <floruit>I AD AFTER 41</floruit>

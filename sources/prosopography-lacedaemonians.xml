@@ -21481,7 +21481,7 @@
                <floruit>MID II AD</floruit>
                <note>Rizakis 244; IG V 1. 108</note>
                <note>Gerousias</note>
-            </person> <!--Mark Here.-->
+            </person> 
             <person xml:id="grp-2559">
                <name>Τιβ(έριος) Κλαύδιος — (6)</name>
                <floruit>I AD AFTER 41</floruit>
@@ -21760,9 +21760,10 @@
             <person xml:id="grp-2582">
                <name>M(ᾶρκος) Αὐρ(ήλιος) Κλεάνω[ρ]</name>
                <floruit>BEGINNING III AD</floruit>
-               <note>Rizakis 116; IG V 1. 603 + 168 joined by Spawforth ABSA 79, </note>
-               <note>285-88 (SEG XXXIV 308) from [Μᾶρ(κος) Αὐρ(ήλιος) Κλεάνω]ρ &lt;; unpublished
+               <note>Rizakis 116; IG V 1. 603 + 168 joined by Spawforth ABSA 79, 
+                  285-88 (SEG XXXIV 308) from [Μᾶρ(κος) Αὐρ(ήλιος) Κλεάνω]ρ &lt;; unpublished
                   photo</note>
+                  <!--Correction: Rejoined sentnece from broken note.-->
                <note>Son of Kleanor</note>
             </person>
             <person xml:id="grp-2583">
@@ -22492,7 +22493,8 @@
                </note>
                <note>[Gerousias in the year of Menekles, AD 96/7]<hi rend="superscript">ac</hi>
                </note>
-               <note>[Gerousias again]<hi rend="superscript">b</hi>, AD 101/2</note> <!--Correction: Changes '{' to '['-->
+               <note>[Gerousias again]<hi rend="superscript">b</hi>, AD 101/2</note>
+               <!--Correction: Typo, changed '{' to '['-->
             </person>
             <person xml:id="grp-2661">
                <name>Κλέων (5) (= 4?)</name>
@@ -22563,7 +22565,8 @@
                <note>IG V 1. 62</note>
                <note>Son of Seipompos (2)</note>
                <note>Nomophylax in the year of Attic[us], AD 133/4</note>
-               <note>See also 9</note>
+               <note>See also ΣΤΡΩΜΝΩΙ</note>
+               <!--Correction: Typo, changed "9" to "ΣΤΡΩΜΝΩΙ"-->
             </person>
             <person xml:id="grp-2670">
                <name>Κλέων (13)</name>
@@ -22866,7 +22869,7 @@
                <note>[Hier]omnemon<hi rend="superscript">a</hi>; eponymous patronomos<hi
                      rend="superscript">b</hi>
                </note>
-            </person>
+            </person> <!-- Mark Here.-->
             <person xml:id="grp-2703">
                <name>Κλεώνυμος (6)</name>
                <floruit>MID I BC</floruit>

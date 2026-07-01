@@ -28997,7 +28997,7 @@
                <note style="text-align: justify;">Was besieged in Abydos by the Athenians but
                   relieved by Antalkidas. As nauarch of the year 376/75 he was defeated by Timotheos
                   at Alyzia.</note>
-            </person> <!--End here before big merge!!.-->
+            </person> 
             <person xml:id="grp-3370">
                <name>Νεικόμαχος (1)</name>
                <floruit>I\II AD</floruit>
@@ -29396,8 +29396,8 @@
                <floruit>MID V BC</floruit>
                <note>Poralla 567; Thucydides V 36-39, 51</note>
                <note>Son of Knidis</note>
-               <note>Ephor of the year 421/20, worked to conclude an alliance with Boeotia </note>
-               <note>in 421</note>
+               <note>Ephor of the year 421/20, worked to conclude an alliance with Boeotia in 421</note>
+               <!--Correction: Rejoined sentence from broken note.-->
                <note style="text-align: justify;">In Winter 420/19 he fell as commander of Herakleia
                   in Trachis in a battle against the Thessalians.</note>
             </person>
@@ -29481,7 +29481,8 @@
             <person xml:id="grp-3430">
                <name>Ξένιππος (1)</name>
                <floruit>III\II BC</floruit>
-               <note>IG XI 4. 718 (9—)</note>
+               <note>IG XI 4. 718 (ΞΕΝΙΠΠΟΣΤΡΑΤΑ)</note>
+               <!--Correction: Typo, changed "9-" to "ΞΕΝΙΠΠΟΣΤΡΑΤΑ-".-->
                <note>Son of (S)tra—</note>
                <note>[L]acedaemonian</note>
                <note style="text-align: justify;">Subject of an honorary decree by the boule and
@@ -29844,7 +29845,8 @@
             <person xml:id="grp-3477">
                <name>O— (1)</name>
                <floruit>II AD</floruit>
-               <note>SEG XI 503 (9—?)</note>
+               <note>SEG XI 503 (Q—?)</note>
+               <!--Correction: Typo, changed "9" with "Q".-->
                <note>Son of Sosikrates (18)</note>
                <note>Patronomos with C. Ju[lius] — (9)</note>
             </person>
@@ -30005,8 +30007,8 @@
                <floruit>I BC</floruit>
                <note>IG V 1. 212</note>
                <note>Son of Timogen[es] (2)</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of </note>
-               <note>Aristomachos (3)</note>
+               <note>Member of the cult of Poseidon of Taenarum in the year of Aristomachos (3)</note>
+               <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-3498">
                <name>Ὀνασικλ—</name>
@@ -30098,13 +30100,13 @@
             <person xml:id="grp-3506">
                <name>Σέκστος Πομπήιος Ὀνασικράτης (1)</name>
                <floruit>II\III AD</floruit>
-               <note>Rizakis 630, 631 (Onasikrates of IG V 1. 558 is a separate individual – </note>
-               <note>Stemma V); IG V 1. <hi rend="bold">129</hi>
+               <note>Rizakis 630, 631 (Onasikrates of IG V 1. 558 is a separate individual
+                   Stemma V); IG V 1. <hi rend="bold">129</hi>
                   <hi rend="superscript">a</hi>, <hi rend="bold">306</hi>
                   <hi rend="superscript">b</hi>, 557<hi rend="superscript">c</hi>, 558<hi
                      rend="superscript">d</hi>, 559<hi rend="superscript">e</hi>, 614 (cf. SEG XI
-                     849?)<hi rend="superscript">f</hi>, </note>
-               <note>653B<hi rend="superscript">g</hi>
+                     849?)<hi rend="superscript">f</hi>, 653B<hi rend="superscript">g</hi>
+                  <!--Correction: Rejoined sentence from broken note. X2-->
                </note>
                <note>Son of (Onasikrates &lt;2&gt;)<hi rend="superscript">d</hi>
                </note>
@@ -30202,8 +30204,9 @@
             <person xml:id="grp-3517">
                <name>(Αὐρήλιος) [Ὀνα]σίων</name>
                <floruit>II/III AD</floruit>
-               <note>Papaëfthimiou <hi rend="italic">Grabreliefs</hi> 15, 20. 44, 46-47, 54-55, </note>
-               <note>63-69 text on pp. 146-48 ph fig 20</note>
+               <note>Papaëfthimiou <hi rend="italic">Grabreliefs</hi> 15, 20. 44, 46-47, 54-55, 
+                  63-69 text on pp. 146-48 ph fig 20</note>
+                  <!--Correction: Rejoined sentence from broken note.-->
                <note>Father of Aurelius Eutychianos</note>
                <note>see also Ὀνησίων</note>
             </person>
@@ -30234,7 +30237,8 @@
                <name>Ὀνήσ[ι]μ[ος] (3)</name>
                <floruit>MID-LATE II AD</floruit>
                <note>BSA XXIX, 11, 2(B)</note>
-               <note>Nom[o]phylax in the year of C. J[ulius] Euk[l]eid[as] (or Sik[l]eid[as]</note>
+               <note>Nom[o]phylax in the year of C. J[ulius] Euk[l]eid[as] (or Sik[l]eid[as])</note>
+               <!--Correction: Typo, added ")".-->
             </person>
             <person xml:id="grp-3522">
                <name>Onesimus</name>
@@ -30324,7 +30328,8 @@
             <person xml:id="grp-3532">
                <name>Ὀνησιφόρος (10)</name>
                <floruit/>
-               <note>IG V 1. 64; [SEG XI 575: 9—]</note>
+               <note>IG V 1. 64; [SEG XI 575: ON—]</note>
+               <!--Correction: Typo, changed "9" to "ON".-->
                <note>Father of Epitynchanon (3)</note>
             </person>
             <person xml:id="grp-3533">
@@ -30548,8 +30553,9 @@
             <person xml:id="grp-3561">
                <name>M(ᾶρκος) Αὐρ(ήλιος) Παλαιστρείτης</name>
                <floruit>AFTER AD 160</floruit>
-               <note>Rizakis 161; IG V 1. 566 {the symbol &lt; follows the name, i. e., “son of </note>
-               <note>(Palaistreites)”?}</note>
+               <note>Rizakis 161; IG V 1. 566 {the symbol &lt; follows the name, 
+                  i. e., “son of (Palaistreites)”?}</note>
+                  <!--Correction: Rejoined sentence from broken note.-->
                <note>Brother of Aurelia Aphrodo and Aurelia Soteira</note>
                <note>Sphaireus</note>
                <note>Of the Cynosurian obe</note>
@@ -30593,9 +30599,10 @@
                <name>Γάιος Πομπών(νιος) Πανθάλης (2) Διογένης Ἀριστέας</name>
                <floruit>II\III AD</floruit>
                <note>Rizakis 646 (Stemmata I, VII, IX); IG V 1. 546<hi rend="superscript">a</hi>,
-                     547<hi rend="superscript">b</hi>, 684 (cf. SEG XI </note>
-               <note>844<hi rend="smallcaps">b</hi>, addenda et corrigenda)<hi rend="superscript"
+                     547<hi rend="superscript">b</hi>, 684 (cf. SEG XI 
+                     844<hi rend="smallcaps">b</hi>, addenda et corrigenda)<hi rend="superscript"
                      >c</hi>
+                     <!--Correction: Rejoined sentence from broken note.-->
                </note>
                <note>(Son of Aristeas &lt;6&gt;?)</note>
                <note>Father of C. Pom(p)o(nius) Panthales (1) ho kai Aristokles and Kallistonike (4)
@@ -30615,7 +30622,7 @@
                </note>
                <note>Paid for a memorial to Aurelius Alpheios<hi rend="superscript">a</hi>
                </note>
-            </person>
+            </person> <!--Mark here.-->
             <person xml:id="grp-3568">
                <name>Ἰούλιος Πανθάλης (3)</name>
                <floruit>MID II AD</floruit>

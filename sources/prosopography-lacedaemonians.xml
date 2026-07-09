@@ -30622,7 +30622,7 @@
                </note>
                <note>Paid for a memorial to Aurelius Alpheios<hi rend="superscript">a</hi>
                </note>
-            </person> <!--Mark here.-->
+            </person> 
             <person xml:id="grp-3568">
                <name>Ἰούλιος Πανθάλης (3)</name>
                <floruit>MID II AD</floruit>
@@ -30640,7 +30640,7 @@
                <note>An epimeletes [of the restoration] of the theater in Sparta, ca. AD 359</note>
             </person>
             <person xml:id="grp-3570">
-               <name>— [ὁ] καὶ Πανθά[λης] (5)</name>
+               <name>— [ὁ] καὶ Πανθά[λης] (5)</name> <!--HUSKEY-->
                <floruit/>
                <note>Rizakis 734; IG V 1. 149 (joined to 155, cf. SEG XI 600)</note>
                <note>Pr(esbys) pheideitio[u] ...14-16... ho kai Pantha[les]</note>
@@ -30810,8 +30810,9 @@
                <name>Πάντευς</name>
                <floruit>DIED 219 BC</floruit>
                <note>Plutarch <hi rend="italic">Cleomenes</hi> 23.5-6<hi rend="superscript">a</hi>,
-                     37.13-16<hi rend="superscript">b</hi>, 38.4-6; Polybius V 37.8; H. </note>
-               <note>Schaefer, "Panteus," RE, XXXVI Halbband (Stuttgart, 1949), 696</note>
+                     37.13-16<hi rend="superscript">b</hi>, 38.4-6; Polybius V 37.8; H. 
+                     Schaefer, "Panteus," RE, XXXVI Halbband (Stuttgart, 1949), 696</note>
+                     <!--Correction: Rejoined sentence from broken note.-->
                <note>One of the commanders of Kleomenes (1) III</note>
                <note>He led two units (tagmata) of Lacedaemonians over an undefended wall into
                      Megalopolis.<hi rend="superscript">a</hi>
@@ -30984,8 +30985,8 @@
                <name>Μέμ(μιος) Παρμέν{ω}[ν]</name>
                <floruit>EARLY III AD</floruit>
                <note>Rizakis 571; IG V 1. 684 (Παρμένο[ν], cf. SEG XI 844<hi rend="smallcaps"
-                  >b</hi>, addenda et </note>
-               <note>corrigenda)</note>
+                  >b</hi>, addenda et corrigenda)</note>
+                  <!--Correction: Rejoined sentence from broken note.-->
                <note>Sph[aireus]</note>
                <note>Of the [Cynosu]rian obe</note>
             </person>
@@ -31170,8 +31171,8 @@
             <person xml:id="grp-3638">
                <name>Πασικλῆς (20)</name>
                <floruit>I AD</floruit>
-               <note>IG V 1. 51 (= Steinhauer, BSA 93, pp. 427-447, #9, plate 75b), 52, 482; </note>
-               <note>[SEG XI 506]</note>
+               <note>IG V 1. 51 (= Steinhauer, BSA 93, pp. 427-447, #9, plate 75b), 52, 482; [SEG XI 506]</note>
+               <!--Correction; Rejoined sentence from broken note.-->
                <note>Father of Q. Vibius Philokles (4) </note>
             </person>
             <person xml:id="grp-3639">
@@ -31651,8 +31652,8 @@
                <note>Rizakis 311; IG V 1. 36B<hi rend="superscript">a</hi>, 41<hi rend="superscript"
                      >b</hi>, 42<hi rend="superscript">c</hi>; SEG XI 489<hi rend="superscript"
                      >d</hi>, 540<hi rend="superscript">e</hi>, 611<hi rend="superscript">f</hi>;
-                  Steinhauer, </note>
-               <note>BSA 93 (1998), p 443-445, #13 (Plate 77b: 9—)<hi rend="superscript">g</hi>
+                  Steinhauer, BSA 93 (1998), p 443-445, #13 (Plate 77b: 9—)<hi rend="superscript">g</hi>
+                  <!--Correction: Rejoined sentence from broken note.-->
                </note>
                <note>Bidyos in the year of Lysimachos (1)<hi rend="superscript">f</hi>, AD
                   102/3</note>
@@ -31662,9 +31663,9 @@
                <name>Πομ[πήι]ος Περικλῆς (4)</name>
                <floruit>MID II AD</floruit>
                <note>Rizakis 649 {= Πομ[πώ(νι)]ος}; IG V 1. 69<hi rend="superscript">a</hi>, 71 {cf.
-                  SEG XI 526: not </note>
-               <note>per Kolbe Πό(πλιος) Μ(έμμιος)}<hi rend="superscript">b</hi>; SEG XI 554<hi
+                  SEG XI 526: not per Kolbe Πό(πλιος) Μ(έμμιος)}<hi rend="superscript">b</hi>; SEG XI 554<hi
                      rend="superscript">c</hi>
+                     <!--Correction: Rejoineds sentence from broken note.-->
                </note>
                <note>Bou(agos)<hi rend="superscript">a</hi>
                </note>
@@ -31802,10 +31803,11 @@
                <floruit>I\II AD</floruit>
                <note>Rizakis 572; IG V 1. <hi rend="bold">32B</hi>
                   <hi rend="superscript">a</hi>, (57 &lt;cf. SEG XI 508&gt; = Pratolas?)<hi
-                     rend="superscript">b</hi>, 65<hi rend="superscript">c</hi>, </note>
-               <note>121 (cf. SEG XI 574)<hi rend="superscript">d</hi>; SEG XI 490<hi
-                     rend="superscript">e</hi>; Steinhauer BSA 93, 1998, 443-</note>
-               <note>45 no. 13, pl. 77b (SEG XLIX 395); also SEG XI 479</note>
+                     rend="superscript">b</hi>, 65<hi rend="superscript">c</hi>, 
+                     121 (cf. SEG XI 574)<hi rend="superscript">d</hi>; SEG XI 490<hi
+                     rend="superscript">e</hi>; Steinhauer BSA 93, 1998, 443-45 no. 
+                     13, pl. 77b (SEG XLIX 395); also SEG XI 479</note>
+                     <!--Correction: Rejoined sentnece from broken note. X2-->
                <note>Presbys of nomophy[lakes]<hi rend="superscript">b</hi>
                </note>
                <note>Eponymous patronomos<hi rend="superscript">acde</hi>, AD 115/6</note>
@@ -31956,7 +31958,8 @@
             <person xml:id="grp-3730">
                <name>Πλάκων</name>
                <floruit>I AD</floruit>
-               <note>IG V 1. 137 {SEG XI 612: error for {Φι}λάκων?, see Philakon &lt;2&gt;)</note>
+               <note>IG V 1. 137 (SEG XI 612: error for {Φι}λάκων?, see Philakon &lt;2&gt;)</note>
+               <!--Correction: Typo, changed "{" to "(".-->
                <note>Father of Sosikrates (3)</note>
             </person>
             <person xml:id="grp-3731">
@@ -32058,9 +32061,10 @@
             <person xml:id="grp-3741">
                <name>Πό(πλιος) — (2) (= Πρατόλας?)</name>
                <floruit>II AD</floruit>
-               <note>Rizakis 546; IG V 1. 36A {or Γ(αίος) Ἰο(ύλιος)?, ie., ΓΙΟ in ligature}; </note>
-               <note>Bradford <hi rend="italic">AncW</hi> 13, 1986, 123-8 {Πο(πλίου)
+               <note>Rizakis 546; IG V 1. 36A {or Γ(αίος) Ἰο(ύλιος)?, ie., ΓΙΟ in ligature}; 
+                  Bradford <hi rend="italic">AncW</hi> 13, 1986, 123-8 {Πο(πλίου)
                   [Μεμμίου]}</note>
+                  <!--Correction: Rejoined sentence from broken note.-->
                <note>Eponymous patronomos (if Pratolas = AD 117/8)</note>
             </person>
             <person xml:id="grp-3742">
@@ -32082,8 +32086,8 @@
                <floruit>EARLY</floruit>
                <note>Poralla 617; Pausanias III 3.3</note>
                <note>A Lacedaemonian who was supposed to have killed king Polydoros.</note>
-               <note>He is certainly a Spartiate since Pausanias describes him as ἀνὴρ </note>
-               <note>οἰκίας οὐκ ἀδόξου.</note>
+               <note>He is certainly a Spartiate since Pausanias describes him as ἀνὴρ οἰκίας οὐκ ἀδόξου.</note>
+               <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-3745">
                <name>(Τίτος Τρεβελληνός [?]) Πολέμαρχος</name>
@@ -32370,9 +32374,10 @@
             <person xml:id="grp-3780">
                <name>Γά(ιος) Ἰούλιος Πολύευκτος (7)</name>
                <floruit>MID II AD</floruit>
-               <note>Rizakis 499 (suggests identification of some of the different Polyeuktos’s); </note>
-               <note>IG V 1. 283<hi rend="superscript">a</hi>, 507<hi rend="superscript">b</hi>,
+               <note>Rizakis 499 (suggests identification of some of the different Polyeuktos’s); 
+                  IG V 1. 283<hi rend="superscript">a</hi>, 507<hi rend="superscript">b</hi>,
                      607<hi rend="superscript">c</hi>
+                     <!--Correction: Rejoined sentence from broken note.-->
                </note>
                <note>Husband of Julia Apatarion<hi rend="superscript">c</hi>
                </note>
@@ -32380,8 +32385,8 @@
                      rend="superscript">b</hi>
                </note>
                <note>Father-in-law of Ti. Claudius Damokrates (2)<hi rend="superscript">c</hi> and
-                  Memmia </note>
-               <note>Eurybanassa (2)<hi rend="superscript">b</hi>
+                  Memmia Eurybanassa (2)<hi rend="superscript">b</hi>
+                  <!--Correction: Rejoined sentnece from broken note.-->
                </note>
                <note>Grandfather of Claudia Neikion (1)<hi rend="superscript">c</hi> (and Ti.
                   Claudius Polyeuktos &lt;8&gt;<hi rend="superscript">a</hi>)</note>
@@ -32399,11 +32404,9 @@
                <note>Poralla 629; <hi rend="italic">Olymp</hi> 315 (Ol 85 = 440); Pausanias VI
                   1.7</note>
                <note style="text-align: justify;"> With the nickname Πολύχαλκος he won with his
-                  horses in Olympia and </note>
-               <note style="text-align: justify;"> at the Pythian, Isthmian and Nemean games. He had
-                  a statue in Olympia </note>
-               <note style="text-align: justify;"> that represented him with his two little
-                  sons.</note>
+                  horses in Olympia and at the Pythian, Isthmian and Nemean games. He had
+                  a statue in Olympia that represented him with his two little sons.</note>
+                  <!--Correction: Rejoined sentence from broken note. X2-->
             </person>
             <person xml:id="grp-3783">
                <name>Πολυκλῆς (1)</name>
@@ -32657,14 +32660,14 @@
                <floruit>I\II AD</floruit>
                <note>Rizakis 617; IG V 1. 54; Bradford <hi rend="italic">Chiron</hi> 10, 1980,
                   415-6</note>
-               <note>Eponymous patronomos {= Brasidas (4), Theoxenos (4), or </note>
-               <note>Onasikrates (1)?}</note>
+               <note>Eponymous patronomos {= Brasidas (4), Theoxenos (4), or Onasikrates (1)?}</note>
+               <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-3817">
                <name>[Μᾶρκ?]ος Πομπήιος (4)</name>
                <floruit/>
-               <note>Rizakis 616; IG V 1. 787 (—ον Πονπήιον [τὸ]ν ἥρωα ⁄ [Πονπ]ηίου </note>
-               <note>Μάρκου θρέντον)</note>
+               <note>Rizakis 616; IG V 1. 787 (—ον Πονπήιον [τὸ]ν ἥρωα ⁄ [Πονπ]ηίου Μάρκου θρέντον)</note>
+               <!--Correction: Rejoined sentnece from broken note.-->
                <note>Thre{p}tos of M. [Pomp]eius (5)</note>
             </person>
             <person xml:id="grp-3818">
@@ -32781,9 +32784,9 @@
                <floruit>I\II AD</floruit>
                <note>Rizakis 37; SEG XI 559</note>
                <note>Son of (Prasimenes &lt;2&gt;)</note>
-               <note>(The name “should be” spelled Πραξιμένης. The Ξ could have been </note>
-               <note>miscut or, on the other hand, who are we to tell the Spartans how to spell </note>
-               <note>their names?)</note>
+               <note>(The name “should be” spelled Πραξιμένης. The Ξ could have been 
+                  miscut or, on the other hand, who are we to tell the Spartans how to spell their names?)</note>
+                  <!--Correction: Rejoined sentence from broken note.-->
                <note>Gerousias in the year of C. Ju(lius) Agesilaos (4), AD 90/1-95/6</note>
             </person>
             <person xml:id="grp-3831">
@@ -32903,8 +32906,8 @@
                <note>Rizakis 314 (Stemmata I, II, VI); IG V 1. 497<hi rend="superscript">a</hi>, <hi
                      rend="bold">498</hi>
                   <hi rend="superscript">b</hi>, 526<hi rend="superscript">c</hi>, 589<hi
-                     rend="superscript">d</hi>; </note>
-               <note>SEG XI 683<hi rend="superscript">e</hi>
+                     rend="superscript">d</hi>; SEG XI 683<hi rend="superscript">e</hi>
+                     <!--Correction: Rejoined sentence from broken note.-->
                </note>
                <note>Son of Brasidas (2)<hi rend="superscript">ab</hi>
                </note>
@@ -32986,9 +32989,10 @@
                <name>Πόπ(λιος) Μέμ(μιος) Πρατόλας (7)</name>
                <floruit>I AD</floruit>
                <note>Rizakis 574; IG V 1. 53 (Δεσιμάχου)<hi rend="superscript">a</hi>, [54]<hi
-                     rend="superscript">b</hi>, 580 (ΠΟ ΗΡΑΙΟΛΑΣ )<hi rend="superscript">c</hi>; </note>
-               <note>IV<hi rend="superscript">2</hi> 1. 86<hi rend="superscript">d</hi>; [SEG XI
+                     rend="superscript">b</hi>, 580 (ΠΟ ΗΡΑΙΟΛΑΣ )<hi rend="superscript">c</hi>; 
+                     IV<hi rend="superscript">2</hi> 1. 86<hi rend="superscript">d</hi>; [SEG XI
                      847]<hi rend="superscript">e</hi>
+                     <!--Correction: Rejoined sentence from broken note.-->
                </note>
                <note>Son of Deximachos (14)<hi rend="superscript">abe</hi>
                </note>
@@ -33007,14 +33011,15 @@
                <name>Π(όπλιος) Μέμμιος Πρατόλαος (8) Δέξστρος</name>
                <floruit>I\II AD</floruit>
                <note style="text-align: justify;"> Rizakis 576; IG V 1. 32B<hi rend="superscript"
-                     >a</hi>, (57, an error for [Πεῖ]ος &lt;2&gt;), 58 (—λάου</note>
-               <note style="text-align: justify;"> = [Ἀγησι]λάου &lt;4&gt;?)<hi rend="superscript"
+                     >a</hi>, (57, an error for [Πεῖ]ος &lt;2&gt;), 58 
+                     (—λάου = [Ἀγησι]λάου &lt;4&gt;?)<hi rend="superscript"
                      >b</hi>, 101<hi rend="superscript">c</hi>, <hi rend="bold">117</hi>
                   <hi rend="superscript">d</hi>, 233<hi rend="superscript">e</hi>, 537<hi
-                     rend="superscript">f</hi>; SEG XI 518<hi rend="superscript">g</hi>, </note>
-               <note style="text-align: justify;"> 572<hi rend="superscript">h</hi>; Steinhauer, BSA
+                     rend="superscript">f</hi>; SEG XI 518<hi rend="superscript">g</hi>, 
+                     572<hi rend="superscript">h</hi>; Steinhauer, BSA
                   93, pp. 427-447, #14, plate 78A ([Πρα]τόλας)<hi rend="superscript">i</hi>
                </note>
+               <!--Correction: Rejoined sentence from broken note. X2-->
                <note>Son of P. Memmius Deximachos (4)<hi rend="superscript">ci</hi>
                </note>
                <note>Father of P. Memmius Deximachos (5)<hi rend="superscript">f</hi>
@@ -33109,8 +33114,9 @@
             <person xml:id="grp-3857">
                <name>Τι(βέριος) Κ[λ(αύδιος) Πρα]τομηλίδας</name>
                <floruit>I\II AD</floruit>
-               <note>Rizakis 316; Steinhauer, BSA 93 (1998), p 443-445, #13 (Plate 77b) </note>
-               <note>“Also with them (i.e., the other synarchoi)” in a time of shortages</note>
+               <note>Rizakis 316; Steinhauer, BSA 93 (1998), p 443-445, #13 (Plate 77b) 
+                  “Also with them (i.e., the other synarchoi)” in a time of shortages</note>
+                  <!--Correction: Rejoined sentence from broken note.-->
                <note>Career: Tamias in the year of Per[ikles]</note>
                <note>Ag(ora)n[omos] in the year of Pratoneikos</note>
                <note>Epimeletes po(leos) [in the year of Neikip]pidas</note>
@@ -33322,9 +33328,9 @@
                <floruit>II AD</floruit>
                <note>Rizakis 500; IG V 1. 40<hi rend="superscript">a</hi>, 42 (cf. SEG XI 484)<hi
                      rend="superscript">b</hi>, 66 (—νείκῳ)<hi rend="superscript">c</hi>, 123<hi
-                     rend="superscript">d</hi>, </note>
-               <note>298<hi rend="superscript">e</hi>; SEG XI 490<hi rend="superscript">f</hi>
+                     rend="superscript">d</hi>, 298<hi rend="superscript">e</hi>; SEG XI 490<hi rend="superscript">f</hi>
                </note>
+               <!--Correction: Rejoined sentence from broken note.-->
                <note>Anonymus (Fragment 148) kas(en) to him<hi rend="superscript">c</hi>
                </note>
                <note>Eponymous patronomos<hi rend="superscript">abdef</hi>, AD 107/8</note>
@@ -33415,18 +33421,18 @@
                <name>Αὐρ(ήλιος) Πρατύλο[ς] (2)</name>
                <floruit>EARLY III AD</floruit>
                <note>Rizakis 178 (AD 212 or later); IG V 1. 684 (cf. SEG XI 844<hi rend="smallcaps"
-                     >b</hi>, addenda </note>
-               <note>et corrigenda)</note>
+                     >b</hi>, addenda et corrigenda)</note>
+                     <!--Correction: Rejoined sentence from broken note.-->
                <note>{Grandson of [Pra]tylos &lt;1&gt;}</note>
                <note>Sph[aireus] of the [Cynosu]rian obe</note>
             </person>
             <person xml:id="grp-3896">
                <name>Πρευκλητία</name>
                <floruit>MID II AD</floruit>
-               <note>IG V 1. 116; SEG XI 590 ("a highly improbable name"); SEG LV </note>
-               <note>(2005) 474 (reports the suggestion of a verbal adjective
-                  πρ&lt;ο&gt;ευκλη-</note>
-               <note>τ[ι]ά from an unattested †προευκαλέω)</note>
+               <note>IG V 1. 116; SEG XI 590 ("a highly improbable name"); SEG LV 
+                  (2005) 474 (reports the suggestion of a verbal adjective
+                  πρ&lt;ο&gt;ευκλη-τ[ι]ά from an unattested †προευκαλέω)</note>
+                  <!--Correction: Rejoined sentence from broken note. X2-->
                <note>Priestess</note>
                <note>"Hearth and daughter of the city"</note>
             </person>
@@ -33645,8 +33651,8 @@
                <name>Πύρρος (1)</name>
                <floruit>II AD</floruit>
                <note>Rizakis 709; IG V 1. 503<hi rend="superscript">a</hi>, 504<hi
-                     rend="superscript">b</hi> { = Π(όπλιος) Οὔ(λπιος) or Γ(άιος) </note>
-               <note>Ἰού(λιος)?}</note>
+                     rend="superscript">b</hi> { = Π(όπλιος) Οὔ(λπιος) or Γ(άιος) Ἰού(λιος)?}</note>
+                     <!--Correction: Rejoined sentence from broken note.-->
                <note>Son of Kallikrates (66)<hi rend="superscript">ab</hi>
                </note>
                <note>High priest of the emperor and his divine ancestors<hi rend="superscript"
@@ -33683,8 +33689,9 @@
             <person xml:id="grp-3924">
                <name>Πομπηία Πώλλα (2)</name>
                <floruit>II AD</floruit>
-               <note>Rizakis 613 (distinguishes the “Polla” of 464 from the “Polla” of 587); </note>
-               <note>IG V 1. 464<hi rend="superscript">a</hi>, 587<hi rend="superscript">b</hi>
+               <note>Rizakis 613 (distinguishes the “Polla” of 464 from the “Polla” of 587); 
+                  IG V 1. 464<hi rend="superscript">a</hi>, 587<hi rend="superscript">b</hi>
+                  <!--Correction: Rejoined sentence from broken note.-->
                </note>
                <note>Daughter of Theoxenos (8) = (4)<hi rend="superscript">ab</hi>
                </note>
@@ -33720,8 +33727,8 @@
                <floruit>I\II AD</floruit>
                <note>Rizakis 612; IG V 1. 97 (cf. SEG XI 564<hi rend="smallcaps">b</hi>)<hi
                      rend="superscript">a</hi>; SEG XI 510<hi rend="superscript">b</hi>, 535<hi
-                     rend="superscript">c</hi>, </note>
-               <note>564 (Πολλίων)<hi rend="superscript">d</hi>
+                     rend="superscript">c</hi>, 564 (Πολλίων)<hi rend="superscript">d</hi>
+                     <!--Correction: Rejoined sentence from broken note.-->
                </note>
                <note>Son of Rufus (6)<hi rend="superscript">abcd</hi>
                </note>
@@ -33768,9 +33775,10 @@
                </note>
                <note>Father of Klearchos<hi rend="superscript">cd</hi>
                </note>
-               <note>He was ambassador to Athens in 431 before the outbreak of the </note>
-               <note>Peloponnesian War<hi rend="superscript">a</hi>. In summer 422 he led an army
+               <note>He was ambassador to Athens in 431 before the outbreak of the 
+                  Peloponnesian War<hi rend="superscript">a</hi>. In summer 422 he led an army
                   into Thessaly<hi rend="superscript">b</hi>.</note>
+                  <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-3931">
                <name>L(ucius) Aemilius Quir(ina) Rectus</name>
@@ -33850,15 +33858,15 @@
                <name>M(ᾶρκος) Αὐρ(ήλιος) Ρο[ῦφος] (2)</name>
                <floruit>EARLY III AD</floruit>
                <note>Rizakis 179 (Son of Kleanor)/179a; IG V 1. 683<hi rend="superscript">a</hi>;
-                  unpublished </note>
-               <note>photo (inscription in the theater of Sparta)<hi rend="superscript">b</hi>
+                  unpublished photo (inscription in the theater of Sparta)<hi rend="superscript">b</hi>
+                  <!--Correction: Rejoined sentence from broken note.-->
                </note>
                <note>Son of Symphoros<hi rend="superscript">b</hi>
                </note>
                <note>Bideos in the fifth year of the god Lykou[r]gos (3)<hi rend="superscript"
-                     >a</hi>; presbys of </note>
-               <note>nomophylakes in the year when the city honored Julius Paulinus </note>
-               <note>(corrector Achaeae)<hi rend="superscript">b</hi>
+                     >a</hi>; presbys of nomophylakes in the year 
+                     when the city honored Julius Paulinus (corrector Achaeae)<hi rend="superscript">b</hi>
+                     <!--Correction: rejoined sentence from broken note.-->
                </note>
             </person>
             <person xml:id="grp-3942">
@@ -33872,8 +33880,9 @@
             <person xml:id="grp-3943">
                <name>Ροῦφος (4)</name>
                <floruit>I\II AD</floruit>
-               <note>Rizakis 669; IG V 1. [36a], 53, 64, 276; SEG XI 495; Steinhauer, </note>
-               <note>BSA 93, pp. 427-447, #3, plate 72a</note>
+               <note>Rizakis 669; IG V 1. [36a], 53, 64, 276; SEG XI 495; Steinhauer, 
+                  BSA 93, pp. 427-447, #3, plate 72a</note>
+                  <!--Correction: Rejoined sentence from broken note.-->
                <note>Father of Kallikrates (26)</note>
             </person>
             <person xml:id="grp-3944">
@@ -34106,7 +34115,7 @@
                <note>Son of Xe— (2)</note>
                <note>Name in a catalogue?</note>
                <note>Σαφφίων, Κλούβιος <hi rend="bold">Καλλικράτης</hi> (17) ὁ καὶ</note>
-            </person>
+            </person> <!--Mark Here-->
             <person xml:id="grp-3974">
                <name>Σάφφω</name>
                <floruit/>

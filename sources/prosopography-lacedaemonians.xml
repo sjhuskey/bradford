@@ -34115,7 +34115,7 @@
                <note>Son of Xe— (2)</note>
                <note>Name in a catalogue?</note>
                <note>Σαφφίων, Κλούβιος <hi rend="bold">Καλλικράτης</hi> (17) ὁ καὶ</note>
-            </person> <!--Mark Here-->
+            </person> 
             <person xml:id="grp-3974">
                <name>Σάφφω</name>
                <floruit/>
@@ -34144,11 +34144,11 @@
                <name>Σέξ(τος) [Οὔ]λπιος Σεβῆρος (2)</name>
                <floruit>I\II AD</floruit>
                <note style="text-align: justify;">Rizakis 710 (queries the restoration Ulpius
-                  because of the praenomen); </note>
-               <note style="text-align: justify;"> IG V 1. 34 (Σεξ —λπ— —ρος)<hi rend="superscript"
-                     >a</hi>, 61 (Σεβῆρος)<hi rend="superscript">b</hi>, 102 (—πιος </note>
-               <note style="text-align: justify;"> Σεβῆρος)<hi rend="superscript">c</hi>, 106 (—ος
+                  because of the praenomen); IG V 1. 34 (Σεξ —λπ— —ρος)<hi rend="superscript"
+                     >a</hi>, 61 (Σεβῆρος)<hi rend="superscript">b</hi>, 102 (—πιος 
+                      Σεβῆρος)<hi rend="superscript">c</hi>, 106 (—ος
                   Σεβη—, joined to 105, cf. SEG XI 582)<hi rend="superscript">d</hi>
+                  <!--Correction: Rejoined sentence from broken note. X2-->
                </note>
                <note>Son of Phoibos (2)<hi rend="superscript">ac</hi>
                </note>
@@ -34196,8 +34196,8 @@
             <person xml:id="grp-3981">
                <name>[Γ]άι(ος) Ἰού(λιος) Σεκοῦνδος (2)</name>
                <floruit>AFTER AD 160</floruit>
-               <note>Rizakis 503; IG V 1. 168; SEG XI 816 + V 1. 168 = V 1. 603, </note>
-               <note>by SEG XXXIV 308)</note>
+               <note>Rizakis 503; IG V 1. 168; SEG XI 816 + V 1. 168 = V 1. 603, by SEG XXXIV 308)</note>
+               <!--Correction: Rejoined sentence from broken note.-->
                <note>Son of Myron (2)</note>
                <note>[Hier]omnemon</note>
             </person>
@@ -34550,8 +34550,8 @@
                <name>Τι(βέριος) Κλαύδιος Σιμήδης (3)</name>
                <floruit>MID II AD</floruit>
                <note>Rizakis 321/322 (Stemmata I &amp; IX); IG V 1. <hi rend="bold">152</hi> (cf.
-                  SEG XI 604)<hi rend="superscript">a</hi>; </note>
-               <note>SEG XI 781<hi rend="superscript">b</hi>
+                  SEG XI 604)<hi rend="superscript">a</hi>; SEG XI 781<hi rend="superscript">b</hi>
+                  <!--Correction: Rejoined sentnece from broken note. -->
                </note>
                <note>(Son of —krates and [Tei]samenis &lt;1&gt;)<hi rend="superscript">b</hi>
                </note>
@@ -34762,7 +34762,8 @@
             <person xml:id="grp-4043">
                <name>Σε{ί}τε[ιμ]ος (5)</name>
                <floruit>MID II AD</floruit>
-               <note>IG V 1. 114 (9 = Σεπτε[ίμι]ος?)</note>
+               <note>IG V 1. 114 (ΣΕΤΤΕ..ΟΣ = Σεπτε[ίμι]ος?)</note>
+               <!--Correction: Typo, replaced "9" with "ΣΕΤΤΕ..ΟΣ".-->
                <note>Gerousias [for the second time?], AD 112/3 or 113/4</note>
             </person>
             <person xml:id="grp-4044">
@@ -35491,7 +35492,7 @@
                <floruit/>
                <note>Poralla 674; Diogenes Laertius I 106</note>
                <note>Father of the wise Myson (over his nationality see Μύσων)</note>
-               <note>ΣΤΡΩΜΝΩΙ(—?)</note>
+               <note>ΣΤΡΩΜΝΩΙ(—?)</note> <!--HUSKEY-->
                <note>IG V 1. 179 (cf. SEG XI 624)</note>
                <note>a) {Ἱε}ρω{νύμ}ῳ κ[άσεν], see C. Julius (17)</note>
                <note>b) Σ{ιπό}μ{που}, father of Kleon (12), q. v.</note>
@@ -35524,7 +35525,7 @@
                <note style="text-align: justify;">Poralla 677; Herodotus VII 153, 159-162; Athenaeus
                   IX 401<hi rend="smallcaps">d</hi> (discussion of the name)</note>
                <note>In 480 was ambassador to Gelon in Syracuse</note>
-               <note>Συάδρας, Poralla 677a, cf. Συάγρας</note>
+               <note>Συάδρας, Poralla 677a, cf. Συάγρας</note> <!--HUSKEY-->
                <note style="text-align: justify;">See also Chartas</note>
                <note style="text-align: justify;">Fl. first half of the VI BC—S. and Chartas are the
                   teachers of the teacher (Euchirus) of the teacher (Clearchus) of Pythagoras (fl.
@@ -35703,8 +35704,9 @@
                <name>Γά(ιος) Ἰού(λιος) Σωζᾶς (2) (= Ζωζᾶς?)</name>
                <floruit>MID-LATE II AD</floruit>
                <note>Rizakis 508; SEG XI 516</note>
-               <note>Ephor in the year of .... Aristokrates (13) Firmi, AD 166/7 or later</note>
-               <note>(= enseitos IG V. 1. 65?)</note>
+               <note>Ephor in the year of .... Aristokrates (13) Firmi, AD 166/7 or later
+                  (= enseitos IG V. 1. 65?)</note>
+                  <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-4155">
                <name>Σωζᾶς (3)</name>
@@ -35792,8 +35794,8 @@
                <note>Daughter of Hilaros (1)</note>
                <note>Mother of Aur(elia) Neikaphoris</note>
                <note>Wife of Ariston (14)</note>
-               <note>Subject of an honorary decree for moderation and womanly virtue and </note>
-               <note>nobility</note>
+               <note>Subject of an honorary decree for moderation and womanly virtue and nobility</note>
+               <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-4166">
                <name>Σωκλείδας</name>
@@ -35814,9 +35816,10 @@
                <note>Name in a catalogue [of bideoi?]<hi rend="superscript">b</hi>, ca. AD
                   80-85</note>
                <note>Name in a catalogue<hi rend="superscript">c</hi>, ca. AD 90-95</note>
-               <note>Nomophylax in the year of Me(mmius [Longinus &lt;1&gt;?]<hi rend="superscript"
+               <note>Nomophylax in the year of Me(mmius [Longinus &lt;1&gt;?])<hi rend="superscript"
                      >a</hi>
                </note>
+               <!--Correction: Typo, added missing ")" *Memmius.-->
             </person>
             <person xml:id="grp-4168">
                <name>Σωκλίδας (2)</name>
@@ -35908,9 +35911,10 @@
                <floruit>I\II AD</floruit>
                <note>Rizakis 506; IG V 1. 1314</note>
                <note>Son of Eumenes</note>
-               <note style="text-align: justify;">F {= ge(rousias} and worshipper of
+               <note style="text-align: justify;">F {= ge(rousias)} and worshipper of
                   Damoea-in-Thalamae in the year of Ju(lius) Chari{x}e{n}os (8), AD
                   125/6-127/8</note>
+                  <!--Correction: Typo, added missing ")" *ge(rousias)-->
             </person>
             <person xml:id="grp-4179">
                <name>Σωκράτης (3)</name>
@@ -36453,8 +36457,9 @@
                   <hi rend="italic" style="font-family:TeubnerVerticalU">Horos</hi> 8-9, 1990-91 no.
                   5, pl. 21 (SEG XLI 317)</note>
                <note>Son of Aphthonetos</note>
-               <note>Victor of the Boys’ Kattheratoris in the year of Damares {whose duties </note>
-               <note>were assumed by Pom(peius) Damainetos}</note>
+               <note>Victor of the Boys’ Kattheratoris in the year of Damares {whose duties 
+                  were assumed by Pom(peius) Damainetos}</note>
+                  <!--Correction: Rejoined sentence from broken note.-->
                <note>Σω[σικράτης (22)], IG V 1. 128, see Σω[κρατίδας] (3)</note>
             </person>
             <person xml:id="grp-4244">
@@ -36597,8 +36602,9 @@
             <person xml:id="grp-4264">
                <name>M(ᾶ)ρ(κος) A(ὐρήλιος) Σώστ{ρ}ατος (3)</name>
                <floruit>AFTER AD 160</floruit>
-               <note>Rizakis 183 (AD 212 or later); IG V 1. 168 {+ IG V 1. 603 by </note>
-               <note>Spawforth ABSA 79, 285-88, SEG XXXIV 308}</note>
+               <note>Rizakis 183 (AD 212 or later); IG V 1. 168 {+ IG V 1. 603 by 
+                  Spawforth ABSA 79, 285-88, SEG XXXIV 308}</note>
+                  <!--Correction: Rejoined sentence from broken note.-->
                <note>[Hier]omnemon</note>
             </person>
             <person xml:id="grp-4265">

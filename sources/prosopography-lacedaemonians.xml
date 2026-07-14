@@ -708,9 +708,10 @@
                <note>Father of Ariston<hi rend="superscript">b</hi>
                </note>
                <note>Eurypontid king</note>
-               <note>Agasikles, as a contemporary of Leon, is supposed to have led the abor-</note> <!-- Ask Huskey if this should be corrected or remain for formating -->
-               <note>tive war against Tegea,<hi rend="superscript">c</hi> but Pausanias states that
+               <note>Agasikles, as a contemporary of Leon, is supposed to have led the abortive 
+                  war against Tegea,<hi rend="superscript">c</hi> but Pausanias states that
                   he undertook no war. </note>
+                  <!--Correction: Rejoined sentence from seperated hyphen leading to broken note..-->
             </person>
             <person xml:id="grp-84">
                <name>Ἀγάσιππος</name>
@@ -1075,8 +1076,8 @@
                <note style="text-align: justify;">Son of Archidamos III</note>
                <note style="text-align: justify;">Brother of Agis III and Eudamidas I</note>
                <note style="text-align: justify;">He was sent to Crete by Agis III in 333 with a
-                  troop of mercenary </note>
-               <note style="text-align: justify;"> soldiers. </note> <!--Ask Huskey about this formatting-->
+                  troop of mercenary soldiers. </note> 
+                  <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-108">
                <name>Ἀγησίλαος</name>
@@ -23074,7 +23075,6 @@
                <note>Κλούβιος Καλλικράτης (17) ὁ καὶ Σαφφίων</note>
                <note>Κλούβιος Καλλικράτης (41)</note>
                <note>[Κλούβιος? Σα]φφίων ὁ καὶ —</note>
-               <!--HUSKEY-->
             </person>
             <person xml:id="grp-2724">
                <name>Κλύμενος</name>
@@ -30640,7 +30640,7 @@
                <note>An epimeletes [of the restoration] of the theater in Sparta, ca. AD 359</note>
             </person>
             <person xml:id="grp-3570">
-               <name>— [ὁ] καὶ Πανθά[λης] (5)</name> <!--HUSKEY-->
+               <name>— [ὁ] καὶ Πανθά[λης] (5)</name>
                <floruit/>
                <note>Rizakis 734; IG V 1. 149 (joined to 155, cf. SEG XI 600)</note>
                <note>Pr(esbys) pheideitio[u] ...14-16... ho kai Pantha[les]</note>
@@ -37054,9 +37054,9 @@
                <note style="text-align: justify;">Son of Anthesphoros<hi rend="superscript">acd</hi>
                </note>
                <note style="text-align: justify;">Name in a catalogue<hi rend="superscript">b</hi>;
-                  presbys of ephors in the year of Damokles (3),</note>
-               <note style="text-align: justify;">AD 132/3<hi rend="superscript">ac</hi>
+                  presbys of ephors in the year of Damokles (3), AD 132/3<hi rend="superscript">ac</hi>
                </note>
+               <!--Correction: Rejoined sentence from broken note.-->
                <note>Gerousias (for the third time?) in the year of Anonymus<hi rend="superscript"
                      >d</hi>
                </note>
@@ -37281,10 +37281,11 @@
                <note>Father of M. Aur(elius) Teimakon (1) and M. Aur(elius) Philetos (5)<hi
                      rend="superscript">c</hi>
                </note>
-               <note>Subject of an honorary decree: "the most worthy ambassador, who aided</note>
-               <note>the [city] by his favor and zeal on behalf of the [emperors]"<hi
+               <note>Subject of an honorary decree: "the most worthy ambassador, who aided 
+                  the [city] by his favor and zeal on behalf of the [emperors]"<hi
                      rend="superscript">b</hi>
                </note>
+               <!--Correction: Rejoined sentence from broken note.-->
                <note>Synarch of the patronomia in the fourth year of the god Lykourgos (3)<hi
                      rend="superscript">a</hi>
                </note>
@@ -37656,7 +37657,7 @@
                <note>[Husband of] Tei[mo]sthenis (1)</note>
                <note>Son-in-law of [Da]mares (18)</note>
                <note>Not a Lacedaemonian?</note>
-            </person>
+            </person> 
             <person xml:id="grp-4397">
                <name>Τιμοκράτης (14)</name>
                <floruit>I AD</floruit>
@@ -38695,7 +38696,7 @@
                   </graphic>), Gruppe XIV (48-40 BC), Serie 18, Tafel 8, Gruppe XV (48-40 BC), Serie
                   22, Tafel 10, Gruppe XVI (43-31 BC), Serie 9, Tafel 12, Gruppe XVII (43-31 BC),
                   Serie 7, Tafel 13 suggests Philiadas (but the name Pheidias appears on other
-                  coins)</note>
+                  coins)</note> <!--Mark Here.-->
                <note style="text-align: justify;">Name on a coin—perhaps the mint official but more
                   likely the holder of an office, gerousias, ephor, or eponymous patronomos</note>
             </person>

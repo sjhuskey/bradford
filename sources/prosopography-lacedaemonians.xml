@@ -38911,8 +38911,8 @@
             <person xml:id="grp-4546">
                <name>Α[ὐρ]ήλιος Φίλητος (2)</name>
                <floruit>MID-LATE II AD</floruit>
-               <note>Rizakis 168 (Woodward 1=2, AD 212 or later); SEG XI 633 (IG V 1. </note>
-               <note>172-175 joined)</note>
+               <note>Rizakis 168 (Woodward 1=2, AD 212 or later); SEG XI 633 (IG V 1. 172-175 joined)</note>
+               <!--Correction: Rejoined sentence from broken note.-->
                <note>Son of Agathop[o]us (4)</note>
                <note>Aleiptes</note>
             </person>
@@ -39124,7 +39124,7 @@
                      >b</hi>, AD 139/40-ca. 142</note>
                <note>Ephor in the year of Kallikrates (12)<hi rend="superscript">a</hi>, AD
                   163/4</note>
-               <note>=?=</note>
+               <note>=?=</note> <!--HUSKEY-->
             </person>
             <person xml:id="grp-4570">
                <name>Γά(ιος) Ἰούλιος Φίλιππος (12)</name>
@@ -39136,8 +39136,8 @@
                <name>Μᾶρκος Αὐρήλιος Φίλιππος (13)</name>
                <floruit>II\III AD</floruit>
                <note>Rizakis 170 (“Caracalla”); IG V 1. 551<hi rend="superscript">a</hi>, [685 (cf.
-                  SEG XI 845)]<hi rend="superscript">b</hi>; </note>
-               <note>SEG XI 800<hi rend="superscript">c</hi>
+                  SEG XI 845)]<hi rend="superscript">b</hi>; SEG XI 800<hi rend="superscript">c</hi>
+                  <!--Correction: Rejoined sentence from broken note.-->
                </note>
                <note>High priest of the emperors<hi rend="superscript">a[b]c</hi>
                </note>
@@ -39700,8 +39700,9 @@
                </note>
                <note>Son of Agathokles (38)<hi rend="superscript">a[b]</hi>
                </note>
-               <note>[Gerousias} between AD 161 and 169<hi rend="superscript">a</hi>
+               <note>[Gerousias] between AD 161 and 169<hi rend="superscript">a</hi>
                </note>
+               <!--Correction: Typo, changed "}" to "]".-->
                <note>Eph(or) in the year of Cl(audius) Brasidas (2)<hi rend="superscript">b</hi>, AD
                   164/5</note>
             </person>
@@ -40085,9 +40086,9 @@
                <name>Τι(βέριος) Κλόδιος Φιλόστρατος (11-12)</name>
                <floruit>MID II AD</floruit>
                <note>Rizakis 312/336; IG V 1. 116<hi rend="superscript">a</hi>, 165 (Τι— Κλ—
-                     Φιλο—)<hi rend="superscript">b</hi>, 171 </note>
-               <note>(Φιλοστρα—)<hi rend="superscript">c</hi>
+                     Φιλο—)<hi rend="superscript">b</hi>, 171 (Φιλοστρα—)<hi rend="superscript">c</hi>
                </note>
+               <!--Correction: Rejoined sentence from broken note.-->
                <note>Name in a catalogue in the year of [C. Julius] Pan[thales] (3)<hi
                      rend="superscript">c</hi>, AD 162/3</note>
                <note>Gerousias between AD 161 and 169<hi rend="superscript">a</hi>
@@ -40444,8 +40445,9 @@
                <note style="text-align: justify;">Steinhauer, BSA 93 (1998), p 442-443, #11 (Plate
                   76b) (fragmentary and uncertain)</note>
                <note style="text-align: justify;">Eponymous patronomos {?—eight letters are missing
-                  before the 9. We know of a Philonidas whose sons (fl. Hadrian/Antoninus Pius) had
+                  before the F. We know of a Philonidas whose sons (fl. Hadrian/Antoninus Pius) had
                   the nomen Julius.}</note>
+                  <!--Correction: Typo, changed "9" to "F".-->
             </person>
             <person xml:id="grp-4738">
                <name>Φιλωνίδας (6)</name>
@@ -40650,9 +40652,10 @@
                <note>Poralla 737; Pausanias IX 13.5; Plutarch <hi rend="italic">Moralia (amatoriae
                      narrationes</hi> 3) <hi rend="smallcaps">773b-774d</hi>
                </note>
-               <note>A Spartiate who in the first half of the fourth century together with </note>
-               <note>Parthenios raped and murdered two Boeotian girls near Leuctra. Over </note>
-               <note>the chronology see Παρθένιος.</note>
+               <note>A Spartiate who in the first half of the fourth century together with 
+                  Parthenios raped and murdered two Boeotian girls near Leuctra. Over 
+                  the chronology see Παρθένιος.</note>
+                  <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-4765">
                <name>Φρῦνις</name>
@@ -40710,8 +40713,8 @@
                <floruit>I BC</floruit>
                <note>IG V 1. 211</note>
                <note>Son of Kallinikos</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of </note>
-               <note>Aristokratidas (1)</note>
+               <note>Member of the cult of Poseidon of Taenarum in the year of Aristokratidas (1)</note>
+               <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-4772">
                <name>Χαιριάδας</name>
@@ -40731,8 +40734,8 @@
                <note>Poralla 741; <hi rend="italic">Anthologia Palatina</hi> VII 435</note>
                <note>Son of Iphikratidas and Alexippa</note>
                <note style="text-align: justify;">He was supposed to have fallen with his brothers
-                  before Messene </note>
-               <note style="text-align: justify;"> (which was founded in 369 BC)</note>
+                  before Messene (which was founded in 369 BC)</note>
+                  <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-4775">
                <name>Χαίρων</name>
@@ -40746,8 +40749,8 @@
                <note>IG V 1. 210</note>
                <note>Son of [A]gathokles (30)</note>
                <note>{Brother of Archidamos &lt;1&gt;?}</note>
-               <note>Member of the cult of Poseidon of Taenarum in the year of </note>
-               <note>Kallikrates (33)</note>
+               <note>Member of the cult of Poseidon of Taenarum in the year of Kallikrates (33)</note>
+               <!--Correction: Rejoined sentence from broken note. -->
             </person>
             <person xml:id="grp-4777">
                <name>Χαίρων (2)</name>
@@ -40756,9 +40759,9 @@
                <note>Lacedaemonian</note>
                <note>An opponent of the Achaean League, exiled in 188 BC</note>
                <note style="text-align: justify;">He went to Rome to plead for the return of the
-                  exiles, was successful, </note>
-               <note style="text-align: justify;"> and had his career ended by the Achaeans in 181
+                  exiles, was successful, and had his career ended by the Achaeans in 181
                   BC</note>
+                  <!--Correction: Rejoined sentnece from broken note.-->
             </person>
             <person xml:id="grp-4778">
                <name>Χαίρων (3)</name>
@@ -40799,8 +40802,8 @@
                <note style="text-align: justify;">IG V 1. 20<hi rend="smallcaps">b</hi>
                   <hi rend="superscript">a</hi>, 97<hi rend="superscript">b</hi>, 184<hi
                      rend="superscript">c</hi>; SEG XI 564<hi rend="superscript">d</hi>; A. M.
-                  Woodward, BSA XXVI </note>
-               <note style="text-align: justify;"> (1925) 168, C6, C7<hi rend="superscript">e</hi>
+                  Woodward, BSA XXVI (1925) 168, C6, C7<hi rend="superscript">e</hi>
+                  <!--Correction: Rejoined sentence from broken note.-->
                </note>
                <note>Son of Chaleinos (2)<hi rend="superscript">abd</hi>
                </note>
@@ -40876,8 +40879,8 @@
                <name>(Χάρης [2])</name>
                <floruit>I AD</floruit>
                <note style="text-align: justify;">IG V 1. 62, [109], 110 (cf. SEG XI 587), 111 (cf.
-                  SEG XI 584), [139]; </note>
-               <note style="text-align: justify;"> SEG XI 495, 585</note>
+                  SEG XI 584), [139]; SEG XI 495, 585</note>
+                  <!--Correction: Rejoined sentence from broken note.-->
                <note>Father of Chares (1)</note>
             </person>
             <person xml:id="grp-4789">
@@ -40903,8 +40906,9 @@
                <name>Χαρίλας?</name>
                <floruit>VI\V BC</floruit>
                <note style="text-align: justify;">Poralla 745; Plutarch <hi rend="italic"
-                     >Moralia</hi> (<hi rend="italic">apophthegmata Laconica</hi> sv </note>
-               <note style="text-align: justify;"> Archidamidas) 218<hi rend="smallcaps">b</hi>
+                     >Moralia</hi> (<hi rend="italic">apophthegmata Laconica</hi> 
+                     sv Archidamidas) 218<hi rend="smallcaps">b</hi>
+                     <!--Correction: Rejoined sentence from broken note.-->
                </note>
                <note style="text-align: justify;">A contemporary of the Lacedaemonian Archidamidas
                   (who lived during the Persian wars), probably also Spartan</note>
@@ -41016,8 +41020,8 @@
                <name>[Γ(άιος)] Ἰού(λιος) Χαρίξενος (7) (= 1 or 4)</name>
                <floruit>I AD</floruit>
                <note>Rizakis 433-437; IG V 1. 59 (cf. SEG XI 548), [83]; SEG XI <hi rend="bold"
-                     >488</hi>, <hi rend="bold">537</hi>, </note>
-               <note>[538]</note>
+                     >488</hi>, <hi rend="bold">537</hi>, [538]</note>
+                     <!--Correction: Rejoined sentence from broken note.-->
                <note>Eponymous patronomos, AD 90/1-92/3 (or earlier)</note>
                <note>The issue is combining and separating the Charixeni 1, 4, 7, 8</note>
             </person>
@@ -41133,8 +41137,8 @@
                <name>Χάρμις</name>
                <floruit>MID VII BC</floruit>
                <note style="text-align: justify;">Poralla 751; <hi rend="italic">Olymp</hi> 40
-                  (discussion of identity and date); Africanus in </note>
-               <note style="text-align: justify;">Eusebius I 198</note>
+                  (discussion of identity and date); Africanus in Eusebius I 198</note>
+                  <!--Correction: Rejoined sentence from broken note.-->
                <note style="text-align: justify;">Olympic victor in Ol 28 = 668 BC in the
                   stadion</note>
                <note style="text-align: justify;">Probably to be identified with Chionis, the
@@ -41147,8 +41151,8 @@
                <note>Poralla 752; Adnotatio to <hi rend="italic">Anthologia Palatina</hi> VI 246 ed
                   Dübner p 253.</note>
                <note>Son of the Lacedaemonian Lykinos (according to Jacob's guess)</note>
-               <note>Victor with the four horse chariot at Olympia in the middle of the fifth </note>
-               <note>century</note>
+               <note>Victor with the four horse chariot at Olympia in the middle of the fifth century</note>
+               <!--Correction: Rejoined sentence from broken note.-->
             </person>
             <person xml:id="grp-4822">
                <name>Χάρμος</name>
@@ -41210,8 +41214,8 @@
                <note>IG V 1. 601</note>
                <note>Daughter of (M.) Aur(elius) Aristoteles (1) and Aur(elia) Aristokleia</note>
                <note style="text-align: justify;">Granddaughter (through her father) of Hellanikos
-                  (1) and (through her </note>
-               <note style="text-align: justify;"> mother) of Charteris (1)</note>
+                  (1) and (through her mother) of Charteris (1)</note>
+                  <!--Correction: Rejoined sentence from broken note.-->
                <note style="text-align: justify;">{Mother of M. Aurelius Euporos &lt;4&gt;}</note>
                <note style="text-align: justify;">Wife of M. Aur(elius) Kleandros (3) ho kai
                   Menios</note>
